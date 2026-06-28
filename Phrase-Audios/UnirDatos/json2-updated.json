@@ -1,0 +1,1570 @@
+[
+  {
+    "id": 1,
+    "phrase": "a few",
+    "translation": "unos pocos",
+    "audio": "frase-1.mp3",
+    "children": [
+      {
+        "phrase": "a few minutes",
+        "translation": "unos minutos",
+        "phoneticSimple": "e fiu mínits"
+      },
+      {
+        "phrase": "a few times",
+        "translation": "unas veces",
+        "phoneticSimple": "e fiu taims"
+      },
+      {
+        "phrase": "a few years",
+        "translation": "unos años",
+        "phoneticSimple": "e fiu yiers"
+      }
+    ],
+    "phoneticSimple": "e fiu",
+    "example": "I need a few minutes to finish this.",
+    "usage": "small, indefinite number of items"
+  },
+  {
+    "id": 2,
+    "phrase": "a good idea",
+    "translation": "una buena idea",
+    "audio": "frase-2.mp3",
+    "children": [
+      {
+        "phrase": "Good idea!",
+        "translation": "¡Buena idea!",
+        "phoneticSimple": "Gud aidía!"
+      },
+      {
+        "phrase": "It’s a good idea to…",
+        "translation": "Es una buena idea…",
+        "phoneticSimple": "Its e gud aidía tu…"
+      },
+      {
+        "phrase": "That’s a good idea!",
+        "translation": "¡Esa es una buena idea!",
+        "phoneticSimple": "Dats e gud aidía!"
+      }
+    ],
+    "phoneticSimple": "e gud aidía",
+    "example": "That's a good idea!",
+    "usage": "Proposing a positive and helpful suggestion."
+  },
+  {
+    "id": 3,
+    "phrase": "agree with sb",
+    "translation": "estar de acuerdo con alguien",
+    "audio": "frase-3.mp3",
+    "children": [],
+    "phoneticSimple": "agrí uiz sámbadi",
+    "example": "I agree with you.",
+    "usage": "Expressing shared opinions or consent"
+  },
+  {
+    "id": 4,
+    "phrase": "a little",
+    "translation": "un poco",
+    "audio": "frase-4.mp3",
+    "children": [
+      {
+        "phrase": "a little help",
+        "translation": "un poco de ayuda",
+        "phoneticSimple": "a lírol jélp"
+      },
+      {
+        "phrase": "a little money",
+        "translation": "un poco de dinero",
+        "phoneticSimple": "a lírol móni"
+      },
+      {
+        "phrase": "a little sugar",
+        "translation": "un poco de azúcar",
+        "phoneticSimple": "a lírol shúgar"
+      }
+    ],
+    "phoneticSimple": "a lírol",
+    "example": "I need a little more time to finish this.",
+    "usage": "Referring to a small amount or degree"
+  },
+  {
+    "id": 5,
+    "phrase": "a lot",
+    "translation": "un montón",
+    "audio": "frase-5.mp3",
+    "children": [
+      {
+        "phrase": "a lot to do",
+        "translation": "mucho que hacer",
+        "phoneticSimple": "e lot tu du"
+      },
+      {
+        "phrase": "a lot of sth",
+        "translation": "mucho de algo",
+        "phoneticSimple": "e lot ov samzing"
+      }
+    ],
+    "phoneticSimple": "e lot",
+    "example": "I like this song a lot.",
+    "usage": "Expressing a large quantity or amount"
+  },
+  {
+    "id": 6,
+    "phrase": "all day",
+    "translation": "todo el día",
+    "audio": "frase-6.mp3",
+    "children": [],
+    "phoneticSimple": "ol dei",
+    "example": "I've been waiting for you all day.",
+    "usage": "Describing something lasting an entire day"
+  },
+  {
+    "id": 7,
+    "phrase": "all night",
+    "translation": "toda la noche",
+    "audio": "frase-7.mp3",
+    "children": [],
+    "phoneticSimple": "ol nait",
+    "example": "We talked all night about our plans.",
+    "usage": "Referring to the entire duration of night"
+  },
+  {
+    "id": 8,
+    "phrase": "all over the world",
+    "translation": "por todo el mundo",
+    "audio": "frase-8.mp3",
+    "children": [],
+    "phoneticSimple": "ol óuver de güörld",
+    "example": "This problem affects people all over the world.",
+    "usage": "indicating global reach or widespread distribution"
+  },
+  {
+    "id": 9,
+    "phrase": "anything else",
+    "translation": "algo más",
+    "audio": "frase-9.mp3",
+    "children": [],
+    "phoneticSimple": "énizing els",
+    "example": "Is there anything else I can help you with?",
+    "usage": "Asking about additional items or needs"
+  },
+  {
+    "id": 10,
+    "phrase": "anyone else",
+    "translation": "¿alguien más?",
+    "audio": "frase-10.mp3",
+    "children": [],
+    "phoneticSimple": "éniuan els",
+    "example": "Does anyone else want to go to the park?",
+    "usage": "Inquiring about other individuals"
+  },
+  {
+    "id": 11,
+    "phrase": "a period of time",
+    "translation": "un período de tiempo",
+    "audio": "frase-11.mp3",
+    "children": [],
+    "phoneticSimple": "a píriod of taim",
+    "example": "The project will require a significant period of time to complete.",
+    "usage": "Referring to an unspecified duration of time"
+  },
+  {
+    "id": 12,
+    "phrase": "around the world",
+    "translation": "alrededor del mundo",
+    "audio": "frase-12.mp3",
+    "children": [],
+    "phoneticSimple": "aráund de güorld",
+    "example": "He decided to travel around the world after graduating.",
+    "usage": "Indicating global coverage or travel."
+  },
+  {
+    "id": 13,
+    "phrase": "arrive at…",
+    "translation": "llegar a…",
+    "audio": "frase-13.mp3",
+    "children": [],
+    "phoneticSimple": "araiv at",
+    "example": "We will arrive at the airport at 3 PM.",
+    "usage": "reaching a destination or conclusion"
+  },
+  {
+    "id": 14,
+    "phrase": "arrive in…",
+    "translation": "llegar a…",
+    "audio": "frase-14.mp3",
+    "children": [],
+    "phoneticSimple": "arráiv in",
+    "example": "We will arrive in Madrid at 3 PM.",
+    "usage": "Reaching a specified destination or place"
+  },
+  {
+    "id": 15,
+    "phrase": "ask for sth",
+    "translation": "pedir algo",
+    "audio": "frase-15.mp3",
+    "children": [],
+    "phoneticSimple": "ask for somzing",
+    "example": "She asked for a glass of water.",
+    "usage": "To request something from someone"
+  },
+  {
+    "id": 16,
+    "phrase": "at home",
+    "translation": "en casa",
+    "audio": "frase-16.mp3",
+    "children": [],
+    "phoneticSimple": "at joum",
+    "example": "I left my keys at home.",
+    "usage": "Referring to a residence location"
+  },
+  {
+    "id": 17,
+    "phrase": "at school",
+    "translation": "en la escuela",
+    "audio": "frase-17.mp3",
+    "children": [],
+    "phoneticSimple": "at skool",
+    "example": "My kids are at school.",
+    "usage": "Location where students learn"
+  },
+  {
+    "id": 18,
+    "phrase": "at the beginning of sth",
+    "translation": "al principio de algo",
+    "audio": "frase-18.mp3",
+    "children": [],
+    "phoneticSimple": "at de biguining of sámzing",
+    "example": "At the beginning of the movie, there was a strange scene.",
+    "usage": "Indicating when something starts"
+  },
+  {
+    "id": 19,
+    "phrase": "at the end",
+    "translation": "al final",
+    "audio": "frase-19.mp3",
+    "children": [
+      {
+        "phrase": "at the end of sth",
+        "translation": "al final de algo",
+        "phoneticSimple": "at di end of samzing"
+      }
+    ],
+    "phoneticSimple": "at di end",
+    "example": "We met at the end of the party.",
+    "usage": "Indicating the conclusion or final part."
+  },
+  {
+    "id": 20,
+    "phrase": "at the moment",
+    "translation": "en este momento",
+    "audio": "frase-20.mp3",
+    "children": [],
+    "phoneticSimple": "at de moument",
+    "example": "I'm busy at the moment, can I call you back later?",
+    "usage": "Refers to current time or situation"
+  },
+  {
+    "id": 21,
+    "phrase": "at the same time",
+    "translation": "al mismo tiempo",
+    "audio": "frase-21.mp3",
+    "children": [],
+    "phoneticSimple": "at de seim taim",
+    "example": "I was studying and working at the same time.",
+    "usage": "concurrent actions or events"
+  },
+  {
+    "id": 22,
+    "phrase": "at the weekend",
+    "translation": "el fin de semana",
+    "audio": "frase-22.mp3",
+    "children": [],
+    "phoneticSimple": "at de víkend",
+    "example": "What are you doing at the weekend?",
+    "usage": "Referring to events on Saturday and Sunday"
+  },
+  {
+    "id": 23,
+    "phrase": "at university",
+    "translation": "en la universidad",
+    "audio": "frase-23.mp3",
+    "children": [],
+    "phoneticSimple": "at iuniversíti",
+    "example": "I am studying at university.",
+    "usage": "Referring to higher education institution location"
+  },
+  {
+    "id": 24,
+    "phrase": "at work",
+    "translation": "en el trabajo",
+    "audio": "frase-24.mp3",
+    "children": [],
+    "phoneticSimple": "at uork",
+    "example": "I'll be at work until 5 PM.",
+    "usage": "Location during professional tasks"
+  },
+  {
+    "id": 25,
+    "phrase": "away from sb/sth",
+    "translation": "lejos de alguien/algo",
+    "audio": "frase-25.mp3",
+    "children": [],
+    "phoneticSimple": "awéi from sámbarí / sámzin",
+    "example": "He quickly walked away from the scene.",
+    "usage": "Maintaining distance from people or things"
+  },
+  {
+    "id": 26,
+    "phrase": "bad for sb/sth",
+    "translation": "Malo para alguien/algo",
+    "audio": "frase-26.mp3",
+    "children": [],
+    "phoneticSimple": "bed for esbí / estíeich",
+    "example": "Smoking is bad for your health.",
+    "usage": "Expresses detrimental effect on person or thing."
+  },
+  {
+    "id": 27,
+    "phrase": "bad news",
+    "translation": "malas noticias",
+    "audio": "frase-27.mp3",
+    "children": [],
+    "phoneticSimple": "bed nius",
+    "example": "I'm afraid I have some bad news for you.",
+    "usage": "Delivering or receiving unpleasant information"
+  },
+  {
+    "id": 28,
+    "phrase": "bad thing",
+    "translation": "cosa mala",
+    "audio": "frase-28.mp3",
+    "children": [],
+    "phoneticSimple": "bad zíng",
+    "example": "Lying is a bad thing to do.",
+    "usage": "Referring to something negative or harmful."
+  },
+  {
+    "id": 29,
+    "phrase": "the bad things about sth",
+    "translation": "lo malo de algo",
+    "audio": "frase-29.mp3",
+    "children": [],
+    "phoneticSimple": "da bad zings abaut samzing",
+    "example": "Let's talk about the bad things about living in a big city.",
+    "usage": "Discussing disadvantages or drawbacks of something"
+  },
+  {
+    "id": 30,
+    "phrase": "because of",
+    "translation": "Debido a",
+    "audio": "frase-30.mp3",
+    "children": [],
+    "phoneticSimple": "bicós ov",
+    "example": "The flight was delayed because of a technical problem.",
+    "usage": "Indicates the reason or cause of something"
+  },
+  {
+    "id": 31,
+    "phrase": "begin with sth",
+    "translation": "empezar con algo",
+    "audio": "frase-31.mp3",
+    "children": [
+      {
+        "phrase": "begin with a good breakfast",
+        "translation": "empezar con un buen desayuno",
+        "phoneticSimple": "bi-guin uiz a gud brek-fast"
+      }
+    ],
+    "phoneticSimple": "bi-guin uiz sámzing",
+    "example": "Let's begin with a short introduction.",
+    "usage": "Starting an activity or process"
+  },
+  {
+    "id": 32,
+    "phrase": "be going to do sth",
+    "translation": "ir a hacer algo",
+    "audio": "frase-32.mp3",
+    "children": [
+      {
+        "phrase": "I'm going to",
+        "translation": "Voy a",
+        "phoneticSimple": "áim góuing tu"
+      },
+      {
+        "phrase": "He's going to",
+        "translation": "Él va a",
+        "phoneticSimple": "jíis góuing tu"
+      }
+    ],
+    "phoneticSimple": "bi góuing tu du sámzing",
+    "example": "I am going to visit my grandmother tomorrow.",
+    "usage": "Discussing future intentions or expectations"
+  },
+  {
+    "id": 33,
+    "phrase": "best friend",
+    "translation": "mejor amigo",
+    "audio": "frase-33.mp3",
+    "children": [],
+    "phoneticSimple": "best frend",
+    "example": "She is my best friend.",
+    "usage": "Closest and most trusted companion"
+  },
+  {
+    "id": 34,
+    "phrase": "black and white",
+    "translation": "blanco y negro",
+    "audio": "frase-34.mp3",
+    "children": [],
+    "phoneticSimple": "blak an wáit",
+    "example": "The film was shot in black and white.",
+    "usage": "Describing things without color or contrast"
+  },
+  {
+    "id": 35,
+    "phrase": "car park",
+    "translation": "estacionamiento",
+    "audio": "frase-35.mp3",
+    "children": [],
+    "phoneticSimple": "kar park",
+    "example": "I left my car in the multi-storey car park.",
+    "usage": "Area for parking vehicles"
+  },
+  {
+    "id": 36,
+    "phrase": "cell phone",
+    "translation": "celular",
+    "audio": "frase-36.mp3",
+    "children": [],
+    "phoneticSimple": "sel foun",
+    "example": "Can you call me on my cell phone?",
+    "usage": "Portable device for communication anywhere"
+  },
+  {
+    "id": 37,
+    "phrase": "city centre",
+    "translation": "centro de la ciudad",
+    "audio": "frase-37.mp3",
+    "children": [],
+    "phoneticSimple": "síti séntra",
+    "example": "Let's meet in the city centre.",
+    "usage": "Core area of a city"
+  },
+  {
+    "id": 38,
+    "phrase": "in the city centre",
+    "translation": "en el centro de la ciudad",
+    "audio": "frase-38.mp3",
+    "children": [],
+    "phoneticSimple": "in de síti séntra",
+    "example": "The main office is in the city centre.",
+    "usage": "Referring to an urban central location"
+  },
+  {
+    "id": 39,
+    "phrase": "come from…",
+    "translation": "venir de…",
+    "audio": "frase-39.mp3",
+    "children": [],
+    "phoneticSimple": "cam from",
+    "example": "Where do you come from?",
+    "usage": "Indicating origin, source, or background"
+  },
+  {
+    "id": 40,
+    "phrase": "come into sth",
+    "translation": "entrar en algo",
+    "audio": "frase-40.mp3",
+    "children": [
+      {
+        "phrase": "He came into the room.",
+        "translation": "Él entró en la habitación.",
+        "phoneticSimple": "ji keim intu de rum"
+      }
+    ],
+    "phoneticSimple": "com intu samzin",
+    "example": "He came into the room.",
+    "usage": "Entering a place or situation"
+  },
+  {
+    "id": 41,
+    "phrase": "differences between A and B",
+    "translation": "diferencias entre A y B",
+    "audio": "frase-41.mp3",
+    "children": [
+      {
+        "phrase": "differences",
+        "translation": "diferencias",
+        "phoneticSimple": "díferensis"
+      }
+    ],
+    "phoneticSimple": "díferensis bituín ei an bi",
+    "example": "Could you explain the differences between a cat and a dog?",
+    "usage": "Comparing distinct aspects of two items"
+  },
+  {
+    "id": 42,
+    "phrase": "difficult for sb",
+    "translation": "difícil para alguien",
+    "audio": "frase-42.mp3",
+    "children": [],
+    "phoneticSimple": "dífikolt for sámbodi",
+    "example": "It's difficult for her to wake up early.",
+    "usage": "Describing a personal challenge or struggle"
+  },
+  {
+    "id": 43,
+    "phrase": "it is difficult for sb to do sth",
+    "translation": "Es difícil para alguien hacer algo",
+    "audio": "frase-43.mp3",
+    "children": [],
+    "phoneticSimple": "it is dífikolt for",
+    "example": "It is difficult for me to wake up early on weekends.",
+    "usage": "Describing a challenge for someone."
+  },
+  {
+    "id": 44,
+    "phrase": "each other",
+    "translation": "el uno al otro",
+    "audio": "frase-44.mp3",
+    "children": [],
+    "phoneticSimple": "ich óder",
+    "example": "They helped each other.",
+    "usage": "Referring to reciprocal actions between two"
+  },
+  {
+    "id": 45,
+    "phrase": "end in sth",
+    "translation": "terminar en algo",
+    "audio": "frase-45.mp3",
+    "children": [],
+    "phoneticSimple": "end in sámzing",
+    "example": "Their journey will end in a beautiful destination.",
+    "usage": "Describes how a process concludes"
+  },
+  {
+    "id": 46,
+    "phrase": "every day",
+    "translation": "todos los días",
+    "audio": "frase-46.mp3",
+    "children": [],
+    "phoneticSimple": "evri dei",
+    "example": "I go to work every day.",
+    "usage": "describing daily frequency or routine actions"
+  },
+  {
+    "id": 47,
+    "phrase": "every week",
+    "translation": "cada semana",
+    "audio": "frase-47.mp3",
+    "children": [],
+    "phoneticSimple": "evri uik",
+    "example": "I go to the gym every week.",
+    "usage": "Regularly occurring on a weekly basis"
+  },
+  {
+    "id": 48,
+    "phrase": "every year",
+    "translation": "cada año",
+    "audio": "frase-48.mp3",
+    "children": [],
+    "phoneticSimple": "evri yiar",
+    "example": "We visit my grandparents every year.",
+    "usage": "Recurring annual events or activities"
+  },
+  {
+    "id": 49,
+    "phrase": "excuse me",
+    "translation": "Disculpa",
+    "audio": "frase-49.mp3",
+    "children": [],
+    "phoneticSimple": "ekskiús mi",
+    "example": "Excuse me, do you have the time?",
+    "usage": "Getting attention, apologizing, or asking to pass"
+  },
+  {
+    "id": 50,
+    "phrase": "family member",
+    "translation": "miembro de la familia",
+    "audio": "frase-50.mp3",
+    "children": [],
+    "phoneticSimple": "famili mémbar",
+    "example": "Every family member contributes to chores.",
+    "usage": "Referring to individuals related by blood or marriage."
+  },
+  {
+    "id": 51,
+    "phrase": "find out",
+    "translation": "Averiguar",
+    "audio": "frase-51.mp3",
+    "children": [
+      {
+        "phrase": "find out about sth",
+        "translation": "Averiguar sobre algo",
+        "phoneticSimple": "faind aut abaut samzing"
+      },
+      {
+        "phrase": "find out more",
+        "translation": "Averiguar más",
+        "phoneticSimple": "faind aut mor"
+      }
+    ],
+    "phoneticSimple": "faind aut",
+    "example": "We need to find out where they live.",
+    "usage": "Discovering information, learning facts, obtaining knowledge"
+  },
+  {
+    "id": 52,
+    "phrase": "for a long time",
+    "translation": "por mucho tiempo",
+    "audio": "frase-52.mp3",
+    "children": [],
+    "phoneticSimple": "for a long taim",
+    "example": "I haven't seen him for a long time.",
+    "usage": "Indicate an extended period of duration"
+  },
+  {
+    "id": 53,
+    "phrase": "a long time",
+    "translation": "mucho tiempo",
+    "audio": "frase-53.mp3",
+    "children": [],
+    "phoneticSimple": "a long taim",
+    "example": "I haven't seen her in a long time.",
+    "usage": "Referring to an extended duration"
+  },
+  {
+    "id": 54,
+    "phrase": "for a moment",
+    "translation": "por un momento",
+    "audio": "frase-54.mp3",
+    "children": [],
+    "phoneticSimple": "fou-ra mou-ment",
+    "example": "Can you wait for a moment?",
+    "usage": "Indicating a very brief duration"
+  },
+  {
+    "id": 55,
+    "phrase": "for example",
+    "translation": "por ejemplo",
+    "audio": "frase-55.mp3",
+    "children": [],
+    "phoneticSimple": "for eksampol",
+    "example": "You can choose any color, for example, blue or green.",
+    "usage": "Introduce illustrations or specific instances"
+  },
+  {
+    "id": 56,
+    "phrase": "for lunch",
+    "translation": "para el almuerzo",
+    "audio": "frase-56.mp3",
+    "children": [],
+    "phoneticSimple": "for lonch",
+    "example": "What are you having for lunch?",
+    "usage": "Referring to the midday meal"
+  },
+  {
+    "id": 57,
+    "phrase": "for many years",
+    "translation": "por muchos años",
+    "audio": "frase-57.mp3",
+    "children": [],
+    "phoneticSimple": "for meni yíars",
+    "example": "They have known each other for many years.",
+    "usage": "Expressing a long duration of time"
+  },
+  {
+    "id": 58,
+    "phrase": "for the first time",
+    "translation": "por primera vez",
+    "audio": "frase-58.mp3",
+    "children": [],
+    "phoneticSimple": "for de ferst taim",
+    "example": "I visited Paris for the first time last year.",
+    "usage": "Introducing an initial experience or occurrence"
+  },
+  {
+    "id": 59,
+    "phrase": "get home",
+    "translation": "llegar a casa",
+    "audio": "frase-59.mp3",
+    "children": [],
+    "phoneticSimple": "guet joum",
+    "example": "I need to get home soon.",
+    "usage": "Arriving at your residence or house"
+  },
+  {
+    "id": 60,
+    "phrase": "get married",
+    "translation": "casarse",
+    "audio": "frase-60.mp3",
+    "children": [],
+    "phoneticSimple": "guet marrid",
+    "example": "They decided to get married next year.",
+    "usage": "Become husband and wife"
+  },
+  {
+    "id": 61,
+    "phrase": "get off",
+    "translation": "bajarse",
+    "audio": "frase-61.mp3",
+    "children": [
+      {
+        "phrase": "get off the bus",
+        "translation": "bajarse del autobús",
+        "phoneticSimple": "guet of de bas"
+      },
+      {
+        "phrase": "I’m getting off here.",
+        "translation": "Me bajo aquí.",
+        "phoneticSimple": "aim gueting of jier"
+      }
+    ],
+    "phoneticSimple": "guet of",
+    "example": "He got off the train.",
+    "usage": "Leaving a vehicle or a place"
+  },
+  {
+    "id": 62,
+    "phrase": "get on",
+    "translation": "subirse a",
+    "audio": "frase-62.mp3",
+    "children": [
+      {
+        "phrase": "get on the bus",
+        "translation": "subir al autobús",
+        "phoneticSimple": "guet on de bas"
+      },
+      {
+        "phrase": "Are you getting on?",
+        "translation": "¿Te vas a subir?",
+        "phoneticSimple": "ar iu gueting on"
+      }
+    ],
+    "phoneticSimple": "guet on",
+    "example": "I need to get on the train.",
+    "usage": "Enter a vehicle, stage, or platform."
+  },
+  {
+    "id": 63,
+    "phrase": "get ready",
+    "translation": "prepararse, alistarse",
+    "audio": "frase-63.mp3",
+    "children": [
+      {
+        "phrase": "get ready for sth",
+        "translation": "prepararse para algo",
+        "phoneticSimple": "guet redi for samzing"
+      },
+      {
+        "phrase": "get ready to do sth",
+        "translation": "prepararse para hacer algo",
+        "phoneticSimple": "guet redi tu du samzing"
+      }
+    ],
+    "phoneticSimple": "guet redi",
+    "example": "Let's get ready for the party.",
+    "usage": "Preparing for an event or upcoming action"
+  },
+  {
+    "id": 64,
+    "phrase": "get there",
+    "translation": "llegar allí",
+    "audio": "frase-64.mp3",
+    "children": [],
+    "phoneticSimple": "guet der",
+    "example": "How do we get there?",
+    "usage": "Reaching a destination or location"
+  },
+  {
+    "id": 65,
+    "phrase": "get to…",
+    "translation": "Tener la oportunidad de...",
+    "audio": "frase-65.mp3",
+    "children": [],
+    "phoneticSimple": "guet tu",
+    "example": "I get to travel the world for work.",
+    "usage": "Describing a chance or an opportunity."
+  },
+  {
+    "id": 66,
+    "phrase": "get up",
+    "translation": "levantarse",
+    "audio": "frase-66.mp3",
+    "children": [],
+    "phoneticSimple": "guet ap",
+    "example": "I need to get up early tomorrow.",
+    "usage": "Describes physical action of rising"
+  },
+  {
+    "id": 67,
+    "phrase": "go back",
+    "translation": "volver",
+    "audio": "frase-67.mp3",
+    "children": [
+      {
+        "phrase": "go back to…",
+        "translation": "volver a…",
+        "phoneticSimple": "gou bak tu"
+      }
+    ],
+    "phoneticSimple": "gou bak",
+    "example": "I need to go back home.",
+    "usage": "Returning to a previous place or state"
+  },
+  {
+    "id": 68,
+    "phrase": "go home",
+    "translation": "ir a casa",
+    "audio": "frase-68.mp3",
+    "children": [],
+    "phoneticSimple": "gou jom",
+    "example": "I need to go home now.",
+    "usage": "Returning to one's residence"
+  },
+  {
+    "id": 69,
+    "phrase": "go into sth",
+    "translation": "entrar en algo",
+    "audio": "frase-69.mp3",
+    "children": [
+      {
+        "phrase": "She went into her room.",
+        "translation": "Ella entró en su habitación.",
+        "phoneticSimple": "shi went intu jer rum"
+      }
+    ],
+    "phoneticSimple": "gou intu sámzing",
+    "example": "He decided to go into politics.",
+    "usage": "Enter a place, profession, or state"
+  },
+  {
+    "id": 70,
+    "phrase": "good at sth",
+    "translation": "Ser bueno en algo",
+    "audio": "frase-70.mp3",
+    "children": [
+      {
+        "phrase": "good at drawing",
+        "translation": "Bueno dibujando",
+        "phoneticSimple": "gud at dróin"
+      }
+    ],
+    "phoneticSimple": "gud at sámzin",
+    "example": "He is good at math.",
+    "usage": "Proficient in a skill or activity."
+  },
+  {
+    "id": 71,
+    "phrase": "good for sb/sth",
+    "translation": "Bueno para alguien o algo",
+    "audio": "frase-71.mp3",
+    "children": [],
+    "phoneticSimple": "gud for sambodi or samzing",
+    "example": "Exercising is good for your health.",
+    "usage": "Indicates positive benefit for a person or thing."
+  },
+  {
+    "id": 72,
+    "phrase": "Good morning",
+    "translation": "Buenos días",
+    "audio": "frase-72.mp3",
+    "children": [],
+    "phoneticSimple": "Gud mórnin",
+    "example": "Good morning, how are you?",
+    "usage": "Standard greeting at the beginning of day"
+  },
+  {
+    "id": 73,
+    "phrase": "Good afternoon",
+    "translation": "Buenas tardes",
+    "audio": "frase-73.mp3",
+    "children": [],
+    "phoneticSimple": "Gud aftérnún",
+    "example": "Good afternoon, everyone.",
+    "usage": "Formal greeting in the afternoon"
+  },
+  {
+    "id": 74,
+    "phrase": "Good evening",
+    "translation": "Buenas noches",
+    "audio": "frase-74.mp3",
+    "children": [],
+    "phoneticSimple": "Gud ívning",
+    "example": "Good evening, how can I help you?",
+    "usage": "Formal greeting in the evening"
+  },
+  {
+    "id": 75,
+    "phrase": "good news",
+    "translation": "buenas noticias",
+    "audio": "frase-75.mp3",
+    "children": [],
+    "phoneticSimple": "gud nius",
+    "example": "That's good news!",
+    "usage": "sharing positive information or events"
+  },
+  {
+    "id": 76,
+    "phrase": "good thing",
+    "translation": "cosa buena",
+    "audio": "frase-76.mp3",
+    "children": [],
+    "phoneticSimple": "gud ting",
+    "example": "It's a good thing you're here.",
+    "usage": "Referring to something positive or beneficial"
+  },
+  {
+    "id": 77,
+    "phrase": "the good things about sth",
+    "translation": "lo bueno de algo",
+    "audio": "frase-77.mp3",
+    "children": [
+      {
+        "phrase": "the good things",
+        "translation": "las cosas buenas",
+        "phoneticSimple": "de gud zings"
+      },
+      {
+        "phrase": "about sth",
+        "translation": "sobre algo",
+        "phoneticSimple": "abaut samzing"
+      }
+    ],
+    "phoneticSimple": "de gud zings abaut samzing",
+    "example": "Let's talk about the good things about living in the city.",
+    "usage": "Discuss positive aspects of a topic."
+  },
+  {
+    "id": 78,
+    "phrase": "go out",
+    "translation": "salir",
+    "audio": "frase-78.mp3",
+    "children": [],
+    "phoneticSimple": "gou aut",
+    "example": "I need to go out tonight.",
+    "usage": "Leave home for social activity"
+  },
+  {
+    "id": 79,
+    "phrase": "go to bed",
+    "translation": "ir a la cama",
+    "audio": "frase-79.mp3",
+    "children": [],
+    "phoneticSimple": "gou tu bed",
+    "example": "I'm tired, I need to go to bed.",
+    "usage": "telling someone to sleep, retire"
+  },
+  {
+    "id": 80,
+    "phrase": "go to school",
+    "translation": "ir a la escuela",
+    "audio": "frase-80.mp3",
+    "children": [],
+    "phoneticSimple": "gou tu skul",
+    "example": "I go to school every day.",
+    "usage": "Regular attendance at an educational institution"
+  },
+  {
+    "id": 81,
+    "phrase": "go to work",
+    "translation": "ir al trabajo",
+    "audio": "frase-81.mp3",
+    "children": [],
+    "phoneticSimple": "gou tu uork",
+    "example": "I need to go to work now.",
+    "usage": "Leaving home to start one's job."
+  },
+  {
+    "id": 82,
+    "phrase": "grow up",
+    "translation": "crecer",
+    "audio": "frase-82.mp3",
+    "children": [
+      {
+        "phrase": "Guess what…",
+        "translation": "Sabes qué…",
+        "phoneticSimple": "gues wat"
+      }
+    ],
+    "phoneticSimple": "grou ap",
+    "example": "Kids grow up so fast.",
+    "usage": "Become older and more mature"
+  },
+  {
+    "id": 83,
+    "phrase": "half an hour",
+    "translation": "media hora",
+    "audio": "frase-83.mp3",
+    "children": [],
+    "phoneticSimple": "jaf an áuer",
+    "example": "I will be there in half an hour.",
+    "usage": "Period of thirty minutes"
+  },
+  {
+    "id": 84,
+    "phrase": "hard work",
+    "translation": "trabajo duro",
+    "audio": "frase-84.mp3",
+    "children": [],
+    "phoneticSimple": "járd uérk",
+    "example": "Success often comes from hard work and dedication.",
+    "usage": "Describing diligent effort or strenuous labor"
+  },
+  {
+    "id": 85,
+    "phrase": "have fun",
+    "translation": "Diviértete",
+    "audio": "frase-85.mp3",
+    "children": [],
+    "phoneticSimple": "jav fan",
+    "example": "I hope you have fun at the party.",
+    "usage": "Wishing someone enjoyable experiences"
+  },
+  {
+    "id": 86,
+    "phrase": "have got",
+    "translation": "tener",
+    "audio": "frase-86.mp3",
+    "children": [],
+    "phoneticSimple": "jav got",
+    "example": "I have got a beautiful garden.",
+    "usage": "Showing possession or a strong obligation"
+  },
+  {
+    "id": 87,
+    "phrase": "have time",
+    "translation": "tener tiempo",
+    "audio": "frase-87.mp3",
+    "children": [
+      {
+        "phrase": "have time for sth",
+        "translation": "tener tiempo para algo",
+        "phoneticSimple": "jav taim for samzing"
+      },
+      {
+        "phrase": "have time to do sth",
+        "translation": "tener tiempo para hacer algo",
+        "phoneticSimple": "jav taim tu du samzing"
+      }
+    ],
+    "phoneticSimple": "jav taim",
+    "example": "I don't have time today.",
+    "usage": "Expressing availability for an activity"
+  },
+  {
+    "id": 88,
+    "phrase": "he or she",
+    "translation": "Él o ella",
+    "audio": "frase-88.mp3",
+    "children": [],
+    "phoneticSimple": "ji or shi",
+    "example": "He or she needs to sign the form.",
+    "usage": "Referring to a person of unknown gender"
+  },
+  {
+    "id": 89,
+    "phrase": "high school",
+    "translation": "escuela secundaria",
+    "audio": "frase-89.mp3",
+    "children": [
+      {
+        "phrase": "student",
+        "translation": "estudiante",
+        "phoneticSimple": "stiúdent"
+      },
+      {
+        "phrase": "teacher",
+        "translation": "profesor",
+        "phoneticSimple": "tícher"
+      }
+    ],
+    "phoneticSimple": "jai skul",
+    "example": "I went to high school in New York.",
+    "usage": "Education for teenagers after middle school"
+  },
+  {
+    "id": 90,
+    "phrase": "his or her",
+    "translation": "de él o de ella",
+    "audio": "frase-90.mp3",
+    "children": [
+      {
+        "phrase": "How about…?",
+        "translation": "¿Qué tal si...?",
+        "phoneticSimple": "jau abaut"
+      },
+      {
+        "phrase": "How are you?",
+        "translation": "¿Cómo estás?",
+        "phoneticSimple": "jau ar yu"
+      },
+      {
+        "phrase": "How long…?",
+        "translation": "¿Cuánto tiempo...?",
+        "phoneticSimple": "jau long"
+      },
+      {
+        "phrase": "How many…?",
+        "translation": "¿Cuántos/as...?",
+        "phoneticSimple": "jau meni"
+      },
+      {
+        "phrase": "How much…?",
+        "translation": "¿Cuánto/a...?",
+        "phoneticSimple": "jau mach"
+      },
+      {
+        "phrase": "How often…?",
+        "translation": "¿Con qué frecuencia...?",
+        "phoneticSimple": "jau ofen"
+      }
+    ],
+    "phoneticSimple": "jis or jer",
+    "example": "Each participant must bring his or her own supplies.",
+    "usage": "Possessive for a singular, non-specific person"
+  },
+  {
+    "id": 91,
+    "phrase": "important for sb/sth",
+    "translation": "importante para alguien/algo",
+    "audio": "frase-91.mp3",
+    "children": [
+      {
+        "phrase": "important for you",
+        "translation": "importante para ti",
+        "phoneticSimple": "importánt for yú"
+      }
+    ],
+    "phoneticSimple": "importánt for sámwan / sámzing",
+    "example": "This decision is important for our future.",
+    "usage": "Describing significance for a person or thing"
+  },
+  {
+    "id": 92,
+    "phrase": "It is important for sb/sth to do sth",
+    "translation": "Es importante para alguien/algo hacer algo",
+    "audio": "frase-92.mp3",
+    "children": [
+      {
+        "phrase": "It is important for us to learn new things",
+        "translation": "Es importante para nosotros aprender cosas nuevas",
+        "phoneticSimple": "it is impórtant for as tu lern niu zings"
+      },
+      {
+        "phrase": "It is important for the company to innovate",
+        "translation": "Es importante para la empresa innovar",
+        "phoneticSimple": "it is impórtant for de cómpani tu ínoveit"
+      }
+    ],
+    "phoneticSimple": "it is impórtant for sám badí / sám zing tu du sám zing",
+    "example": "It is important for the government to protect its citizens.",
+    "usage": "Emphasizing critical actions for someone"
+  },
+  {
+    "id": 93,
+    "phrase": "I’m sorry",
+    "translation": "Lo siento",
+    "audio": "frase-93.mp3",
+    "children": [],
+    "phoneticSimple": "aim sorri",
+    "example": "I'm sorry I'm late.",
+    "usage": "Apologizing for mistakes or expressing regret"
+  },
+  {
+    "id": 94,
+    "phrase": "in April",
+    "translation": "en abril",
+    "audio": "frase-94.mp3",
+    "children": [],
+    "phoneticSimple": "in éipril",
+    "example": "The flowers bloom in April.",
+    "usage": "Referring to events happening during April"
+  },
+  {
+    "id": 95,
+    "phrase": "in July, etc.",
+    "translation": "en julio, etc.",
+    "audio": "frase-95.mp3",
+    "children": [],
+    "phoneticSimple": "in yulai, etsetera",
+    "example": "The festival takes place in July, etc.",
+    "usage": "Listing items, including a month, and so on"
+  },
+  {
+    "id": 96,
+    "phrase": "in bed",
+    "translation": "en la cama",
+    "audio": "frase-96.mp3",
+    "children": [],
+    "phoneticSimple": "in bed",
+    "example": "He was in bed all morning.",
+    "usage": "Describes being inside a bed"
+  },
+  {
+    "id": 97,
+    "phrase": "in class",
+    "translation": "en clase",
+    "audio": "frase-97.mp3",
+    "children": [],
+    "phoneticSimple": "in clas",
+    "example": "We learned a lot in class today.",
+    "usage": "Referring to activities within a classroom setting"
+  },
+  {
+    "id": 98,
+    "phrase": "in fact",
+    "translation": "de hecho",
+    "audio": "frase-98.mp3",
+    "children": [],
+    "phoneticSimple": "in fakt",
+    "example": "I thought it was difficult, but in fact, it was easy.",
+    "usage": "Emphasizing truth or correcting information"
+  },
+  {
+    "id": 99,
+    "phrase": "in front of",
+    "translation": "delante de",
+    "audio": "frase-99.mp3",
+    "children": [],
+    "phoneticSimple": "in frónt of",
+    "example": "The car is in front of the house.",
+    "usage": "Positioning an object directly ahead"
+  },
+  {
+    "id": 100,
+    "phrase": "in my opinion",
+    "translation": "en mi opinión",
+    "audio": "frase-100.mp3",
+    "children": [],
+    "phoneticSimple": "in mai opinioñ",
+    "example": "In my opinion, that's a good idea.",
+    "usage": "Expressing a personal viewpoint or belief"
+  },
+  {
+    "id": 101,
+    "phrase": "in school",
+    "translation": "en la escuela",
+    "audio": "frase-101.mp3",
+    "children": [],
+    "phoneticSimple": "in skúl",
+    "example": "My daughter is in school.",
+    "usage": "Referring to attending classes or location"
+  },
+  {
+    "id": 102,
+    "phrase": "in space",
+    "translation": "en el espacio",
+    "audio": "frase-102.mp3",
+    "children": [],
+    "phoneticSimple": "in speis",
+    "example": "Astronauts travel in space.",
+    "usage": "Referring to outer planetary environment"
+  },
+  {
+    "id": 103,
+    "phrase": "in summer",
+    "translation": "en verano",
+    "audio": "frase-103.mp3",
+    "children": [],
+    "phoneticSimple": "in sámer",
+    "example": "We always go to the beach in summer.",
+    "usage": "Referring to events within summer period"
+  },
+  {
+    "id": 104,
+    "phrase": "in winter",
+    "translation": "en invierno",
+    "audio": "frase-104.mp3",
+    "children": [],
+    "phoneticSimple": "in güínter",
+    "example": "I like to drink hot chocolate in winter.",
+    "usage": "Referring to things that happen during winter"
+  },
+  {
+    "id": 105,
+    "phrase": "in the centre",
+    "translation": "en el centro",
+    "audio": "frase-105.mp3",
+    "children": [
+      {
+        "phrase": "in the centre of sth",
+        "translation": "en el centro de algo",
+        "phoneticSimple": "in de senter of samzing"
+      }
+    ],
+    "phoneticSimple": "in de senter",
+    "example": "The shop is right in the centre of town.",
+    "usage": "Describing a location's central position"
+  },
+  {
+    "id": 106,
+    "phrase": "in the country",
+    "translation": "en el campo",
+    "audio": "frase-106.mp3",
+    "children": [
+      {
+        "phrase": "I live in the country.",
+        "translation": "Vivo en el campo.",
+        "phoneticSimple": "ái liv in de cóntri"
+      }
+    ],
+    "phoneticSimple": "in de cóntri",
+    "example": "I love spending my summers in the country.",
+    "usage": "Refers to areas outside of urban cities"
+  },
+  {
+    "id": 107,
+    "phrase": "the best… in the country",
+    "translation": "lo mejor… del país",
+    "audio": "frase-107.mp3",
+    "children": [],
+    "phoneticSimple": "de best… in de cáuntri",
+    "example": "This is the best restaurant in the country.",
+    "usage": "Expressing a top national quality."
+  },
+  {
+    "id": 108,
+    "phrase": "in the future",
+    "translation": "en el futuro",
+    "audio": "frase-108.mp3",
+    "children": [],
+    "phoneticSimple": "in de fiúchur",
+    "example": "We will meet again in the future.",
+    "usage": "Referring to events yet to happen"
+  },
+  {
+    "id": 109,
+    "phrase": "in the morning",
+    "translation": "por la mañana",
+    "audio": "frase-109.mp3",
+    "children": [],
+    "phoneticSimple": "in de morning",
+    "example": "I like to drink coffee in the morning.",
+    "usage": "Time after sunrise before noon"
+  },
+  {
+    "id": 110,
+    "phrase": "in the afternoon",
+    "translation": "por la tarde",
+    "audio": "frase-110.mp3",
+    "children": [],
+    "phoneticSimple": "in da áfternun",
+    "example": "I will meet you in the afternoon.",
+    "usage": "Referring to the later part of the day"
+  },
+  {
+    "id": 111,
+    "phrase": "in the evening",
+    "translation": "por la tarde",
+    "audio": "frase-111.mp3",
+    "children": [],
+    "phoneticSimple": "in da ívnin",
+    "example": "I like to read a book in the evening.",
+    "usage": "Time after afternoon, before night"
+  },
+  {
+    "id": 112,
+    "phrase": "in the north",
+    "translation": "en el norte",
+    "audio": "frase-112.mp3",
+    "children": [],
+    "phoneticSimple": "in da norz",
+    "example": "The cold winds blow in the north.",
+    "usage": "Indicating a northern geographic location"
+  },
+  {
+    "id": 113,
+    "phrase": "in the south",
+    "translation": "en el sur",
+    "audio": "frase-113.mp3",
+    "children": [],
+    "phoneticSimple": "in de sáuz",
+    "example": "The city is located in the south.",
+    "usage": "Referring to a southern geographic region."
+  },
+  {
+    "id": 114,
+    "phrase": "in the east",
+    "translation": "en el este",
+    "audio": "frase-114.mp3",
+    "children": [],
+    "phoneticSimple": "in di ist",
+    "example": "The sun rises in the east.",
+    "usage": "Location or direction towards the sunrise"
+  },
+  {
+    "id": 115,
+    "phrase": "in the west",
+    "translation": "en el oeste",
+    "audio": "frase-115.mp3",
+    "children": [],
+    "phoneticSimple": "in de uest",
+    "example": "The sun sets in the west.",
+    "usage": "Referring to a western location or direction"
+  },
+  {
+    "id": 116,
+    "phrase": "in the past",
+    "translation": "en el pasado",
+    "audio": "frase-116.mp3",
+    "children": [],
+    "phoneticSimple": "in de past",
+    "example": "We used to live in a small town in the past.",
+    "usage": "Referring to a time before now"
+  },
+  {
+    "id": 117,
+    "phrase": "in the street",
+    "translation": "en la calle",
+    "audio": "frase-117.mp3",
+    "children": [],
+    "phoneticSimple": "in de stríit",
+    "example": "I saw him playing in the street.",
+    "usage": "Referring to a location on a public road"
+  },
+  {
+    "id": 118,
+    "phrase": "in the summer",
+    "translation": "en verano",
+    "audio": "frase-118.mp3",
+    "children": [],
+    "phoneticSimple": "in de sámer",
+    "example": "I like to go to the beach in the summer.",
+    "usage": "Referring to the summer season"
+  },
+  {
+    "id": 119,
+    "phrase": "in the winter",
+    "translation": "en invierno",
+    "audio": "frase-119.mp3",
+    "children": [],
+    "phoneticSimple": "in de uínter",
+    "example": "We often go skiing in the winter.",
+    "usage": "Talking about the cold season"
+  },
+  {
+    "id": 120,
+    "phrase": "in town",
+    "translation": "en la ciudad",
+    "audio": "frase-120.mp3",
+    "children": [],
+    "phoneticSimple": "in taun",
+    "example": "Let's meet for coffee in town.",
+    "usage": "Referring to the local urban area"
+  },
+  {
+    "id": 121,
+    "phrase": "it is important to do sth",
+    "translation": "es importante hacer algo",
+    "audio": "frase-121.mp3",
+    "children": [
+      {
+        "phrase": "It takes…",
+        "translation": "Lleva…",
+        "phoneticSimple": "it teiks"
+      },
+      {
+        "phrase": "It takes an hour to get there.",
+        "translation": "Lleva una hora llegar allí.",
+        "phoneticSimple": "it teiks an áuer tu guet zer"
+      }
+    ],
+    "phoneticSimple": "it is importan tu du samzing",
+    "example": "It is important to listen carefully.",
+    "usage": "Expressing an action's necessity or significance"
+  },
+  {
+    "id": 122,
+    "phrase": "kind of sb/sth",
+    "translation": "tipo de alguien/algo",
+    "audio": "frase-122.mp3",
+    "children": [
+      {
+        "phrase": "What kind of music do you like?",
+        "translation": "¿Qué tipo de música te gusta?",
+        "phoneticSimple": "uat kaind of miú-sik du iu laik"
+      }
+    ],
+    "phoneticSimple": "kaind of es-bi / es-tí-eich",
+    "example": "What kind of car do you have?",
+    "usage": "Asking about types, categories, or nature"
+  },
+  {
+    "id": 123,
+    "phrase": "know how",
+    "translation": "saber hacer",
+    "audio": "frase-123.mp3",
+    "children": [
+      {
+        "phrase": "know how to do sth",
+        "translation": "saber cómo hacer algo",
+        "phoneticSimple": "nou jau tu du samzin"
+      }
+    ],
+    "phoneticSimple": "nou jau",
+    "example": "He has the know how to build a house.",
+    "usage": "Practical skill and expertise for tasks."
+  },
+  {
+    "id": 124,
+    "phrase": "last time",
+    "translation": "la última vez",
+    "audio": "frase-124.mp3",
+    "children": [],
+    "phoneticSimple": "last taim",
+    "example": "The last time I saw her was years ago.",
+    "usage": "Designates a specific past event"
+  },
+  {
+    "id": 125,
+    "phrase": "the last time",
+    "translation": "la última vez",
+    "audio": "frase-125.mp3",
+    "children": [],
+    "phoneticSimple": "de last taim",
+    "example": "This is the last time I tell you.",
+    "usage": "Referring to a final past occurrence"
+  },
+  {
+    "id": 126,
+    "phrase": "last year",
+    "translation": "el año pasado",
+    "audio": "frase-126.mp3",
+    "children": [],
+    "phoneticSimple": "last íer",
+    "example": "I visited my grandparents last year.",
+    "usage": "Referring to the previous year"
+  },
+  {
+    "id": 127,
+    "phrase": "last month",
+    "translation": "el mes pasado",
+    "audio": "frase-127.mp3",
+    "children": [],
+    "phoneticSimple": "las manz",
+    "example": "I went on vacation last month.",
+    "usage": "Referring to the month before now"
+  },
+  {
+    "id": 128,
+    "phrase": "last summer",
+    "translation": "el verano pasado",
+    "audio": "frase-128.mp3",
+    "children": [],
+    "phoneticSimple": "last sámer",
+    "example": "I went to the beach last summer.",
+    "usage": "Referring to the previous summer season"
+  },
+  {
+    "id": 129,
+    "phrase": "last week",
+    "translation": "la semana pasada",
+    "audio": "frase-129.mp3",
+    "children": [],
+    "phoneticSimple": "last uik",
+    "example": "I saw him last week.",
+    "usage": "Referring to the seven days prior"
+  }
+]

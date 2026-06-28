@@ -1,0 +1,505 @@
+[
+  {
+    "id": 1,
+    "phrase": "a few",
+    "translation": "unos pocos",
+    "audio": "frase-1.mp3",
+    "children": [
+      {
+        "phrase": "a few minutes",
+        "translation": "unos pocos minutos"
+      },
+      {
+        "phrase": "a few times",
+        "translation": "unas pocas veces"
+      },
+      {
+        "phrase": "a few years",
+        "translation": "unos pocos años"
+      }
+    ],
+    "example": "I need a few minutes to finish this.",
+    "exampleTranslation": "Necesito unos pocos minutos para terminar esto.",
+    "usage": "Se usa para referirse a una cantidad pequeña, pero más de dos, de algo contable."
+  },
+  {
+    "id": 2,
+    "phrase": "a good idea",
+    "translation": "una buena idea",
+    "audio": "frase-2.mp3",
+    "children": [
+      {
+        "phrase": "Good idea!",
+        "translation": "¡Buena idea!"
+      },
+      {
+        "phrase": "It’s a good idea to…",
+        "translation": "Es una buena idea..."
+      },
+      {
+        "phrase": "That’s a good idea!",
+        "translation": "¡Eso es una buena idea!"
+      }
+    ],
+    "example": "That's a good idea!",
+    "exampleTranslation": "¡Esa es una buena idea!",
+    "usage": "Se usa para expresar que algo es una buena sugerencia, un buen plan o una solución inteligente."
+  },
+  {
+    "id": 3,
+    "phrase": "agree with sb",
+    "translation": "estar de acuerdo con alguien",
+    "audio": "frase-3.mp3",
+    "children": [],
+    "example": "I agree with you.",
+    "exampleTranslation": "Estoy de acuerdo contigo.",
+    "usage": "Se usa para expresar conformidad con la opinión o declaración de otra persona."
+  },
+  {
+    "id": 4,
+    "phrase": "a little",
+    "translation": "un poco",
+    "audio": "frase-4.mp3",
+    "children": [
+      {
+        "phrase": "a little help",
+        "translation": "un poco de ayuda"
+      },
+      {
+        "phrase": "a little money",
+        "translation": "un poco de dinero"
+      },
+      {
+        "phrase": "a little sugar",
+        "translation": "un poco de azúcar"
+      }
+    ],
+    "example": "I need a little more time to finish this.",
+    "exampleTranslation": "Necesito un poco más de tiempo para terminar esto.",
+    "usage": "Se usa para referirse a una cantidad pequeña de algo, especialmente con sustantivos incontables."
+  },
+  {
+    "id": 5,
+    "phrase": "a lot",
+    "translation": "mucho",
+    "audio": "frase-5.mp3",
+    "children": [
+      {
+        "phrase": "a lot to do",
+        "translation": "mucho que hacer"
+      },
+      {
+        "phrase": "a lot of sth",
+        "translation": "mucho de algo"
+      }
+    ],
+    "example": "I like this song a lot.",
+    "exampleTranslation": "Me gusta mucho esta canción.",
+    "usage": "Se usa para indicar una gran cantidad o un alto grado de algo."
+  },
+  {
+    "id": 6,
+    "phrase": "all day",
+    "translation": "todo el día",
+    "audio": "frase-6.mp3",
+    "children": [],
+    "example": "I've been waiting for you all day.",
+    "exampleTranslation": "He estado esperándote todo el día.",
+    "usage": "Se utiliza para indicar que una acción, estado o situación se extiende o se mantiene durante la totalidad de un día, desde la mañana hasta la noche."
+  },
+  {
+    "id": 7,
+    "phrase": "all night",
+    "translation": "toda la noche",
+    "audio": "frase-7.mp3",
+    "children": [],
+    "example": "We talked all night about our plans.",
+    "exampleTranslation": "Hablamos toda la noche sobre nuestros planes.",
+    "usage": "Se usa para expresar que algo sucede o se extiende continuamente durante todo el período de la noche."
+  },
+  {
+    "id": 8,
+    "phrase": "all over the world",
+    "translation": "por todo el mundo",
+    "audio": "frase-8.mp3",
+    "children": [],
+    "example": "This problem affects people all over the world.",
+    "exampleTranslation": "Este problema afecta a la gente por todo el mundo.",
+    "usage": "Se usa para indicar que algo ocurre o se extiende por todas las regiones o países del planeta."
+  },
+  {
+    "id": 9,
+    "phrase": "anything else",
+    "translation": "cualquier otra cosa",
+    "audio": "frase-9.mp3",
+    "children": [],
+    "example": "Is there anything else I can help you with?",
+    "exampleTranslation": "¿Hay algo más en lo que pueda ayudarte?",
+    "usage": "Se usa para preguntar o referirse a opciones, elementos o acciones adicionales, o para finalizar una interacción ofreciendo más ayuda."
+  },
+  {
+    "id": 10,
+    "phrase": "anyone else",
+    "translation": "alguien más",
+    "audio": "frase-10.mp3",
+    "children": [],
+    "example": "Does anyone else want to go to the park?",
+    "exampleTranslation": "¿Alguien más quiere ir al parque?",
+    "usage": "Se usa para preguntar si hay otras personas involucradas o interesadas en una acción o situación específica, además de las ya mencionadas o implicadas."
+  },
+  {
+    "id": 11,
+    "phrase": "a period of time",
+    "translation": "un período de tiempo",
+    "audio": "frase-11.mp3",
+    "children": [],
+    "example": "The project will require a significant period of time to complete.",
+    "exampleTranslation": "El proyecto requerirá un período de tiempo considerable para completarse.",
+    "usage": "Se usa para referirse a una duración o extensión de tiempo, a menudo calificada por adjetivos como 'corto', 'largo' o 'indefinido'."
+  },
+  {
+    "id": 12,
+    "phrase": "around the world",
+    "translation": "por todo el mundo",
+    "audio": "frase-12.mp3",
+    "children": [],
+    "example": "He decided to travel around the world after graduating.",
+    "exampleTranslation": "Decidió viajar por todo el mundo después de graduarse.",
+    "usage": "Se usa para indicar que algo ocurre o se extiende a nivel global o por todas las partes del mundo."
+  },
+  {
+    "id": 13,
+    "phrase": "arrive at…",
+    "translation": "llegar a…",
+    "audio": "frase-13.mp3",
+    "children": [],
+    "example": "We will arrive at the airport at 3 PM.",
+    "exampleTranslation": "Llegaremos al aeropuerto a las 3 PM.",
+    "usage": "Se usa para indicar el destino o el momento específico de la llegada."
+  },
+  {
+    "id": 14,
+    "phrase": "arrive in…",
+    "translation": "llegar a…",
+    "audio": "frase-14.mp3",
+    "children": [],
+    "example": "We will arrive in Madrid at 3 PM.",
+    "exampleTranslation": "Llegaremos a Madrid a las 3 PM.",
+    "usage": "Se usa para indicar la llegada a una ciudad, país o un lugar amplio."
+  },
+  {
+    "id": 15,
+    "phrase": "ask for sth",
+    "translation": "pedir algo",
+    "audio": "frase-15.mp3",
+    "children": [],
+    "example": "She asked for a glass of water.",
+    "exampleTranslation": "Ella pidió un vaso de agua.",
+    "usage": "Se utiliza para solicitar o requerir algo."
+  },
+  {
+    "id": 16,
+    "phrase": "at home",
+    "translation": "en casa",
+    "audio": "frase-16.mp3",
+    "children": [],
+    "example": "I left my keys at home.",
+    "exampleTranslation": "Dejé mis llaves en casa.",
+    "usage": "Se usa para indicar que alguien se encuentra en su propia residencia o vivienda."
+  },
+  {
+    "id": 17,
+    "phrase": "at school",
+    "translation": "en la escuela",
+    "audio": "frase-17.mp3",
+    "children": [],
+    "example": "My kids are at school.",
+    "exampleTranslation": "Mis hijos están en la escuela.",
+    "usage": "Se usa para indicar el lugar donde alguien se encuentra o asiste para estudiar."
+  },
+  {
+    "id": 18,
+    "phrase": "at the beginning of sth",
+    "translation": "al principio de algo",
+    "audio": "frase-18.mp3",
+    "children": [],
+    "example": "At the beginning of the movie, there was a strange scene.",
+    "exampleTranslation": "Al principio de la película, hubo una escena extraña.",
+    "usage": "Se usa para referirse al punto inicial o al momento en que algo comienza."
+  },
+  {
+    "id": 19,
+    "phrase": "at the end",
+    "translation": "al final",
+    "audio": "frase-19.mp3",
+    "children": [
+      {
+        "phrase": "at the end of sth",
+        "translation": "al final de algo"
+      }
+    ],
+    "example": "We met at the end of the party.",
+    "exampleTranslation": "Nos encontramos al final de la fiesta.",
+    "usage": "Se usa para indicar el punto final de un evento, un período o un lugar físico."
+  },
+  {
+    "id": 20,
+    "phrase": "at the moment",
+    "translation": "en este momento",
+    "audio": "frase-20.mp3",
+    "children": [
+      {
+        "phrase": "right now",
+        "translation": "ahora mismo"
+      }
+    ],
+    "example": "I'm busy at the moment, can I call you back later?",
+    "exampleTranslation": "Estoy ocupado en este momento, ¿puedo llamarte más tarde?",
+    "usage": "Se usa para indicar que algo sucede o es relevante en el tiempo presente."
+  },
+  {
+    "id": 21,
+    "phrase": "at the same time",
+    "translation": "al mismo tiempo",
+    "audio": "frase-21.mp3",
+    "children": [],
+    "example": "I was studying and working at the same time.",
+    "exampleTranslation": "Estaba estudiando y trabajando al mismo tiempo.",
+    "usage": "Se utiliza para indicar que dos o más eventos o acciones suceden simultáneamente."
+  },
+  {
+    "id": 22,
+    "phrase": "at the weekend",
+    "translation": "el fin de semana",
+    "audio": "frase-22.mp3",
+    "children": [],
+    "example": "Vamos a la playa el fin de semana.",
+    "exampleTranslation": "We are going to the beach at the weekend.",
+    "usage": "Se usa para indicar que una acción o evento ocurre durante el sábado y el domingo."
+  },
+  {
+    "id": 23,
+    "phrase": "at university",
+    "translation": "en la universidad",
+    "audio": "frase-23.mp3",
+    "children": [],
+    "example": "I am studying at university.",
+    "exampleTranslation": "Estoy estudiando en la universidad.",
+    "usage": "Se usa para indicar el lugar donde alguien estudia o el contexto de la vida universitaria."
+  },
+  {
+    "id": 24,
+    "phrase": "at work",
+    "translation": "en el trabajo",
+    "audio": "frase-24.mp3",
+    "children": [],
+    "example": "I'll be at work until 5 PM.",
+    "exampleTranslation": "Estaré en el trabajo hasta las 5 PM.",
+    "usage": "Se usa para indicar la ubicación o el estado de estar ocupado en el propio empleo."
+  },
+  {
+    "id": 25,
+    "phrase": "away from sb/sth",
+    "translation": "lejos de alguien/algo",
+    "audio": "frase-25.mp3",
+    "children": [
+      {
+        "phrase": "keep away from",
+        "translation": "mantenerse alejado de"
+      }
+    ],
+    "example": "He quickly walked away from the scene.",
+    "exampleTranslation": "Él se alejó rápidamente de la escena.",
+    "usage": "Indica movimiento o posición que aumenta la distancia respecto a una persona o cosa."
+  },
+  {
+    "id": 26,
+    "phrase": "bad for sb/sth",
+    "translation": "malo para alguien/algo",
+    "audio": "frase-26.mp3",
+    "children": [],
+    "example": "Smoking is bad for your health.",
+    "exampleTranslation": "Fumar es malo para tu salud.",
+    "usage": "Se usa para indicar que algo es perjudicial o tiene un efecto negativo en alguien o algo."
+  },
+  {
+    "id": 27,
+    "phrase": "bad news",
+    "translation": "malas noticias",
+    "audio": "frase-27.mp3",
+    "children": [],
+    "example": "I'm afraid I have some bad news for you.",
+    "exampleTranslation": "Me temo que tengo malas noticias para ti.",
+    "usage": "Used to describe information that is unpleasant, unfortunate, or unwelcome."
+  },
+  {
+    "id": 28,
+    "phrase": "bad thing",
+    "translation": "cosa mala",
+    "audio": "frase-28.mp3",
+    "children": [],
+    "example": "Lying is a bad thing to do.",
+    "exampleTranslation": "Mentir es una cosa mala de hacer.",
+    "usage": "Se usa para describir algo negativo, perjudicial o indeseable."
+  },
+  {
+    "id": 29,
+    "phrase": "the bad things about sth",
+    "translation": "los puntos negativos de algo",
+    "audio": "frase-29.mp3",
+    "children": [],
+    "example": "Let's talk about the bad things about living in a big city.",
+    "exampleTranslation": "Hablemos de los puntos negativos de vivir en una gran ciudad.",
+    "usage": "Se usa para referirse a los aspectos o consecuencias desfavorables de una situación, objeto o concepto."
+  },
+  {
+    "id": 30,
+    "phrase": "because of",
+    "translation": "debido a",
+    "audio": "frase-30.mp3",
+    "children": [],
+    "example": "The flight was delayed because of a technical problem.",
+    "exampleTranslation": "El vuelo se retrasó debido a un problema técnico.",
+    "usage": "Indica la razón o la causa de un evento o situación."
+  },
+  {
+    "id": 31,
+    "phrase": "begin with sth",
+    "translation": "empezar con algo",
+    "audio": "frase-31.mp3",
+    "children": [],
+    "example": "Let's begin with a short introduction.",
+    "exampleTranslation": "Empecemos con una breve introducción.",
+    "usage": "Se usa para indicar el punto de partida o el primer paso en una secuencia de acciones o eventos."
+  },
+  {
+    "id": 32,
+    "phrase": "be going to do sth",
+    "translation": "ir a hacer algo",
+    "audio": "frase-32.mp3",
+    "children": [],
+    "example": "I am going to visit my grandmother tomorrow.",
+    "exampleTranslation": "Voy a visitar a mi abuela mañana.",
+    "usage": "Se usa para hablar de planes futuros, intenciones o predicciones basadas en evidencia actual."
+  },
+  {
+    "id": 33,
+    "phrase": "best friend",
+    "translation": "mejor amigo/a",
+    "audio": "frase-33.mp3",
+    "children": [],
+    "example": "She is my best friend.",
+    "exampleTranslation": "Ella es mi mejor amiga.",
+    "usage": "Se refiere a la persona con la que se tiene la relación de amistad más cercana e íntima."
+  },
+  {
+    "id": 34,
+    "phrase": "black and white",
+    "translation": "blanco y negro",
+    "audio": "frase-34.mp3",
+    "children": [],
+    "example": "The film was shot in black and white.",
+    "exampleTranslation": "La película fue rodada en blanco y negro.",
+    "usage": "Se refiere a imágenes, fotos o películas sin color, o a una situación donde todo es muy claro, sin matices intermedios."
+  },
+  {
+    "id": 35,
+    "phrase": "car park",
+    "translation": "aparcamiento",
+    "audio": "frase-35.mp3",
+    "children": [],
+    "example": "I left my car in the multi-storey car park.",
+    "exampleTranslation": "Dejé mi coche en el aparcamiento de varias plantas.",
+    "usage": "Se refiere a un lugar, a menudo grande, donde se pueden estacionar vehículos."
+  },
+  {
+    "id": 36,
+    "phrase": "cell phone",
+    "translation": "celular",
+    "audio": "frase-36.mp3",
+    "children": [],
+    "example": "Can you call me on my cell phone?",
+    "exampleTranslation": "¿Me puedes llamar a mi celular?",
+    "usage": "A portable device used for mobile communication, making and receiving calls, sending messages, and accessing the internet."
+  },
+  {
+    "id": 37,
+    "phrase": "city centre",
+    "translation": "centro de la ciudad",
+    "audio": "frase-37.mp3",
+    "children": [],
+    "example": "Let's meet in the city centre.",
+    "exampleTranslation": "Quedemos en el centro de la ciudad.",
+    "usage": "Se refiere a la zona central comercial y cultural de una ciudad."
+  },
+  {
+    "id": 38,
+    "phrase": "in the city centre",
+    "translation": "en el centro de la ciudad",
+    "audio": "frase-38.mp3",
+    "children": [],
+    "example": "The main office is in the city centre.",
+    "exampleTranslation": "La oficina principal está en el centro de la ciudad.",
+    "usage": "Se usa para indicar una ubicación central y a menudo concurrida dentro de una ciudad."
+  },
+  {
+    "id": 39,
+    "phrase": "come from…",
+    "translation": "venir de…",
+    "audio": "frase-39.mp3",
+    "children": [],
+    "example": "Where do you come from?",
+    "exampleTranslation": "¿De dónde vienes?",
+    "usage": "Se usa para preguntar o indicar el origen o procedencia de una persona o cosa."
+  },
+  {
+    "id": 40,
+    "phrase": "come into sth",
+    "translation": "entrar en algo/un lugar",
+    "audio": "frase-40.mp3",
+    "children": [
+      {
+        "phrase": "come into a room",
+        "translation": "entrar en una habitación"
+      }
+    ],
+    "example": "He came into the room.",
+    "exampleTranslation": "Él entró en la habitación.",
+    "usage": "Se utiliza para describir la acción de entrar en un espacio, habitación o lugar."
+  },
+  {
+    "id": 41,
+    "phrase": "differences between A and B",
+    "translation": "diferencias entre A y B",
+    "audio": "frase-41.mp3",
+    "children": [],
+    "example": "Could you explain the differences between a cat and a dog?",
+    "exampleTranslation": "¿Podrías explicar las diferencias entre un gato y un perro?",
+    "usage": "Se utiliza para preguntar o hablar sobre las características que distinguen dos o más elementos, conceptos o ideas."
+  },
+  {
+    "id": 42,
+    "phrase": "difficult for sb",
+    "translation": "difícil para alguien",
+    "audio": "frase-42.mp3",
+    "children": [],
+    "example": "It's difficult for her to wake up early.",
+    "exampleTranslation": "Es difícil para ella levantarse temprano.",
+    "usage": "Se usa para describir una situación o tarea que representa un reto o es complicada para una persona específica."
+  },
+  {
+    "id": 43,
+    "phrase": "it is difficult for sb to do sth",
+    "translation": "es difícil para alguien hacer algo",
+    "audio": "frase-43.mp3",
+    "children": [
+      {
+        "phrase": "it is difficult for me to understand",
+        "translation": "es difícil para mí entender"
+      }
+    ],
+    "example": "It is difficult for me to wake up early on weekends.",
+    "exampleTranslation": "Es difícil para mí levantarme temprano los fines de semana.",
+    "usage": "Se usa para expresar que una acción específica es un desafío o presenta dificultad para una persona en particular."
+  }
+]
