@@ -1156,5 +1156,531 @@
     "phoneticSimple": "in térms ov sámzing",
     "example": "In terms of cost, the new plan is more efficient.",
     "usage": "Referring to a specific aspect or subject"
+  },
+  {
+    "id": 536,
+    "phrase": "in the case of sth",
+    "translation": "en el caso de algo",
+    "audio": "A2-Frase-536.mp3",
+    "children": [],
+    "phoneticSimple": "in de keis of samzing",
+    "example": "in the case of an emergency",
+    "usage": "Referring to a specific situation or event"
+  },
+  {
+    "id": 537,
+    "phrase": "in the form of sb/sth",
+    "translation": "en forma de alguien/algo",
+    "audio": "A2-Frase-537.mp3",
+    "children": [],
+    "phoneticSimple": "in da form ov sombodi / somzing",
+    "example": "The payment came in the form of a check.",
+    "usage": "Describing how something appears or is delivered."
+  },
+  {
+    "id": 538,
+    "phrase": "in the way (that)…",
+    "translation": "de la manera en que",
+    "audio": "A2-Frase-538.mp3",
+    "children": [],
+    "phoneticSimple": "in de güei (dat)",
+    "example": "She arranged the flowers in the way that her mother used to.",
+    "usage": "Describe manner or method of action"
+  },
+  {
+    "id": 539,
+    "phrase": "in this case",
+    "translation": "en este caso",
+    "audio": "A2-Frase-539.mp3",
+    "children": [],
+    "phoneticSimple": "in dis keis",
+    "example": "In this case, we should go early.",
+    "usage": "Referring to a particular situation or scenario"
+  },
+  {
+    "id": 540,
+    "phrase": "in time",
+    "translation": "a tiempo",
+    "audio": "A2-Frase-540.mp3",
+    "children": [
+      {
+        "phrase": "in time for sth",
+        "translation": "a tiempo para algo",
+        "phoneticSimple": "in taim for sámzing"
+      },
+      {
+        "phrase": "in time to do sth",
+        "translation": "a tiempo para hacer algo",
+        "phoneticSimple": "in taim tu du sámzing"
+      }
+    ],
+    "phoneticSimple": "in taim",
+    "example": "The package arrived just in time.",
+    "usage": "Arriving before deadline or event"
+  },
+  {
+    "id": 541,
+    "phrase": "in touch",
+    "translation": "en contacto",
+    "audio": "A2-Frase-541.mp3",
+    "children": [],
+    "phoneticSimple": "in tach",
+    "example": "I like to stay in touch with old friends.",
+    "usage": "Keeping updated with someone"
+  },
+  {
+    "id": 542,
+    "phrase": "be in touch",
+    "translation": "estar en contacto",
+    "audio": "A2-Frase-542.mp3",
+    "children": [],
+    "phoneticSimple": "bi in tach",
+    "example": "I'll be in touch with you next week.",
+    "usage": "Maintain communication, stay connected"
+  },
+  {
+    "id": 543,
+    "phrase": "get in touch",
+    "translation": "ponerse en contacto",
+    "audio": "A2-Frase-543.mp3",
+    "children": [],
+    "phoneticSimple": "guet in toch",
+    "example": "I'll get in touch with you tomorrow.",
+    "usage": "Initiating communication with another person"
+  },
+  {
+    "id": 544,
+    "phrase": "keep in touch",
+    "translation": "Mantenerse en contacto",
+    "audio": "A2-Frase-544.mp3",
+    "children": [],
+    "phoneticSimple": "kip in toch",
+    "example": "Let's keep in touch when you move.",
+    "usage": "Maintaining communication with someone"
+  },
+  {
+    "id": 545,
+    "phrase": "in touch with sb",
+    "translation": "en contacto con alguien",
+    "audio": "A2-Frase-545.mp3",
+    "children": [
+      {
+        "phrase": "I wonder if…",
+        "translation": "Me pregunto si…",
+        "phoneticSimple": "ai uónder if"
+      }
+    ],
+    "phoneticSimple": "in tach uiz sam-badi",
+    "example": "I need to get in touch with her about the project.",
+    "usage": "Maintaining communication or contact with a person"
+  },
+  {
+    "id": 546,
+    "phrase": "leave sb/sth out",
+    "translation": "Omitir a alguien/algo",
+    "audio": "A2-Frase-546.mp3",
+    "children": [],
+    "phoneticSimple": "liiv sámbadi / sámzing aut",
+    "example": "Don't leave me out of the party.",
+    "usage": "Not including someone or something deliberately"
+  },
+  {
+    "id": 547,
+    "phrase": "likely to do sth",
+    "translation": "ser probable que haga algo",
+    "audio": "A2-Frase-547.mp3",
+    "children": [],
+    "phoneticSimple": "láikli tu du sámzing",
+    "example": "It's likely to rain tomorrow.",
+    "usage": "Describing a probable future action."
+  },
+  {
+    "id": 548,
+    "phrase": "look forward to sth",
+    "translation": "Estar deseando algo",
+    "audio": "A2-Frase-548.mp3",
+    "children": [],
+    "phoneticSimple": "luk fórward tu samzing",
+    "example": "I look forward to our trip next month.",
+    "usage": "Expressing eager anticipation for future events"
+  },
+  {
+    "id": 549,
+    "phrase": "look out",
+    "translation": "¡Cuidado!",
+    "audio": "A2-Frase-549.mp3",
+    "children": [],
+    "phoneticSimple": "luk aut",
+    "example": "Look out! There's a car coming.",
+    "usage": "Warning someone of immediate danger"
+  },
+  {
+    "id": 550,
+    "phrase": "make a difference",
+    "translation": "marcar la diferencia",
+    "audio": "A2-Frase-550.mp3",
+    "children": [],
+    "phoneticSimple": "meik a dífrens",
+    "example": "His new initiative will make a difference.",
+    "usage": "Creating a positive and noticeable impact."
+  },
+  {
+    "id": 551,
+    "phrase": "make sth up",
+    "translation": "inventar algo",
+    "audio": "A2-Frase-551.mp3",
+    "children": [],
+    "phoneticSimple": "meik sámzing ap",
+    "example": "She made up a story to explain why she was late.",
+    "usage": "Fabricate a story, an excuse, or a lie"
+  },
+  {
+    "id": 552,
+    "phrase": "manage to do sth",
+    "translation": "lograr hacer algo",
+    "audio": "A2-Frase-552.mp3",
+    "children": [],
+    "phoneticSimple": "mánich tu du sámtin",
+    "example": "I finally managed to finish the report.",
+    "usage": "Successfully complete a task or action"
+  },
+  {
+    "id": 553,
+    "phrase": "mean to do sth",
+    "translation": "tener la intención de hacer algo",
+    "audio": "A2-Frase-553.mp3",
+    "children": [
+      {
+        "phrase": "I didn’t mean to.",
+        "translation": "No fue mi intención.",
+        "phoneticSimple": "ai díden miin tu"
+      }
+    ],
+    "phoneticSimple": "miin tu du sámzing",
+    "example": "I didn't mean to upset you.",
+    "usage": "Indicate one's intention or plan"
+  },
+  {
+    "id": 554,
+    "phrase": "more and more",
+    "translation": "cada vez más",
+    "audio": "A2-Frase-554.mp3",
+    "children": [],
+    "phoneticSimple": "mor an mor",
+    "example": "He wants to learn more and more.",
+    "usage": "Expressing increasing quantity, frequency, or intensity"
+  },
+  {
+    "id": 555,
+    "phrase": "move on",
+    "translation": "seguir adelante",
+    "audio": "A2-Frase-555.mp3",
+    "children": [
+      {
+        "phrase": "move on to sth",
+        "translation": "pasar a algo",
+        "phoneticSimple": "muv on tu sámzing"
+      }
+    ],
+    "phoneticSimple": "muv on",
+    "example": "It's time to move on.",
+    "usage": "Continue life after difficult event"
+  },
+  {
+    "id": 556,
+    "phrase": "no longer",
+    "translation": "ya no",
+    "audio": "A2-Frase-556.mp3",
+    "children": [],
+    "phoneticSimple": "nou longuer",
+    "example": "She is no longer working here.",
+    "usage": "Indicate something has ceased to happen"
+  },
+  {
+    "id": 557,
+    "phrase": "not any longer",
+    "translation": "ya no",
+    "audio": "A2-Frase-557.mp3",
+    "children": [],
+    "phoneticSimple": "not eni longuer",
+    "example": "She is not working there any longer.",
+    "usage": "Action that has ceased or finished"
+  },
+  {
+    "id": 558,
+    "phrase": "no more than…",
+    "translation": "no más de…",
+    "audio": "A2-Frase-558.mp3",
+    "children": [],
+    "phoneticSimple": "nou mor zan",
+    "example": "You should spend no more than 10 minutes.",
+    "usage": "Setting an upper limit or maximum"
+  },
+  {
+    "id": 559,
+    "phrase": "not even",
+    "translation": "ni siquiera",
+    "audio": "A2-Frase-559.mp3",
+    "children": [
+      {
+        "phrase": "I didn’t even see it.",
+        "translation": "Ni siquiera lo vi.",
+        "phoneticSimple": "ái díden íven síi it"
+      }
+    ],
+    "phoneticSimple": "not íven",
+    "example": "He didn't even try.",
+    "usage": "Emphasizing a lack or low degree"
+  },
+  {
+    "id": 560,
+    "phrase": "not necessarily",
+    "translation": "no necesariamente",
+    "audio": "A2-Frase-560.mp3",
+    "children": [],
+    "phoneticSimple": "not nesesarili",
+    "example": "It's not necessarily a bad thing.",
+    "usage": "Expressing something is not always true"
+  },
+  {
+    "id": 561,
+    "phrase": "not only",
+    "translation": "no solo",
+    "audio": "A2-Frase-561.mp3",
+    "children": [],
+    "phoneticSimple": "nat ounli",
+    "example": "He is not only smart, but also kind.",
+    "usage": "Highlights first item, then adds more"
+  },
+  {
+    "id": 562,
+    "phrase": "not only… but also…",
+    "translation": "No solo… sino también…",
+    "audio": "A2-Frase-562.mp3",
+    "children": [],
+    "phoneticSimple": "not onli bat olso",
+    "example": "She not only sings beautifully but also plays the piano expertly.",
+    "usage": "Highlighting dual aspects of something"
+  },
+  {
+    "id": 563,
+    "phrase": "on a regular basis",
+    "translation": "de forma regular",
+    "audio": "A2-Frase-563.mp3",
+    "children": [
+      {
+        "phrase": "on a daily basis",
+        "translation": "a diario",
+        "phoneticSimple": "on e déili béisis"
+      },
+      {
+        "phrase": "on a weekly basis",
+        "translation": "semanalmente",
+        "phoneticSimple": "on e wíikly béisis"
+      }
+    ],
+    "phoneticSimple": "on e réguiular béisis",
+    "example": "She visits her parents on a regular basis.",
+    "usage": "to indicate frequency or regularity"
+  },
+  {
+    "id": 564,
+    "phrase": "on my own",
+    "translation": "Por mi cuenta",
+    "audio": "A2-Frase-564.mp3",
+    "children": [],
+    "phoneticSimple": "on mai óun",
+    "example": "I prefer to do things on my own.",
+    "usage": "Working without assistance from others"
+  },
+  {
+    "id": 565,
+    "phrase": "on their own",
+    "translation": "por su cuenta",
+    "audio": "A2-Frase-565.mp3",
+    "children": [],
+    "phoneticSimple": "on der oun",
+    "example": "She prefers to work on her own.",
+    "usage": "Independently, without help or supervision"
+  },
+  {
+    "id": 566,
+    "phrase": "on your own",
+    "translation": "por tu cuenta",
+    "audio": "A2-Frase-566.mp3",
+    "children": [],
+    "phoneticSimple": "on yor oun",
+    "example": "He learned to play the guitar on his own.",
+    "usage": "Performing tasks without help"
+  },
+  {
+    "id": 567,
+    "phrase": "on the other hand",
+    "translation": "Por otro lado",
+    "audio": "A2-Frase-567.mp3",
+    "children": [],
+    "phoneticSimple": "on di óder jand",
+    "example": "I want to go, on the other hand, I'm too tired.",
+    "usage": "Presenting an alternative or contrasting idea"
+  },
+  {
+    "id": 568,
+    "phrase": "on the street",
+    "translation": "en la calle",
+    "audio": "A2-Frase-568.mp3",
+    "children": [],
+    "phoneticSimple": "on de strit",
+    "example": "He saw an old man on the street.",
+    "usage": "Referring to a public road surface"
+  },
+  {
+    "id": 569,
+    "phrase": "on the streets",
+    "translation": "en la calle",
+    "audio": "A2-Frase-569.mp3",
+    "children": [],
+    "phoneticSimple": "on de strits",
+    "example": "He spent his whole life on the streets.",
+    "usage": "Referring to public spaces outdoors"
+  },
+  {
+    "id": 570,
+    "phrase": "on the way",
+    "translation": "en camino",
+    "audio": "A2-Frase-570.mp3",
+    "children": [],
+    "phoneticSimple": "on da uei",
+    "example": "I'm on the way, I'll be there in 5 minutes.",
+    "usage": "Traveling towards a destination"
+  },
+  {
+    "id": 571,
+    "phrase": "or something",
+    "translation": "o algo así",
+    "audio": "A2-Frase-571.mp3",
+    "children": [],
+    "phoneticSimple": "or somzing",
+    "example": "Do you want coffee or something?",
+    "usage": "Suggesting other similar possibilities"
+  },
+  {
+    "id": 572,
+    "phrase": "or somebody",
+    "translation": "o alguien",
+    "audio": "A2-Frase-572.mp3",
+    "children": [],
+    "phoneticSimple": "or sombadi",
+    "example": "Did John or somebody call?",
+    "usage": "Referring to an unspecified or unknown person"
+  },
+  {
+    "id": 573,
+    "phrase": "or somewhere",
+    "translation": "o en algún lugar",
+    "audio": "A2-Frase-573.mp3",
+    "children": [],
+    "phoneticSimple": "ór som güer",
+    "example": "Let's meet at the cafe, or somewhere quiet.",
+    "usage": "Referring to an unspecified location or alternative"
+  },
+  {
+    "id": 574,
+    "phrase": "or two",
+    "translation": "o dos",
+    "audio": "A2-Frase-574.mp3",
+    "children": [],
+    "phoneticSimple": "or chu",
+    "example": "Could you get me one or two apples?",
+    "usage": "Referring to a small number"
+  },
+  {
+    "id": 575,
+    "phrase": "a day or two",
+    "translation": "uno o dos días",
+    "audio": "A2-Frase-575.mp3",
+    "children": [],
+    "phoneticSimple": "a dei or tu",
+    "example": "I'll be back in a day or two.",
+    "usage": "Referring to a short, unspecified period"
+  },
+  {
+    "id": 576,
+    "phrase": "a moment or two",
+    "translation": "un momento o dos",
+    "audio": "A2-Frase-576.mp3",
+    "children": [],
+    "phoneticSimple": "a móument or tu",
+    "example": "I'll be back in a moment or two.",
+    "usage": "Mentioning a short, indefinite time"
+  },
+  {
+    "id": 577,
+    "phrase": "a pound or two",
+    "translation": "una o dos libras",
+    "audio": "A2-Frase-577.mp3",
+    "children": [],
+    "phoneticSimple": "e paund or tu",
+    "example": "I'd like a pound or two of those apples.",
+    "usage": "Referring to a small, uncertain quantity"
+  },
+  {
+    "id": 578,
+    "phrase": "ought to",
+    "translation": "debería",
+    "audio": "A2-Frase-578.mp3",
+    "children": [],
+    "phoneticSimple": "ot tu",
+    "example": "You ought to try it.",
+    "usage": "Giving advice or expressing obligation"
+  },
+  {
+    "id": 579,
+    "phrase": "out there",
+    "translation": "ahí fuera",
+    "audio": "A2-Frase-579.mp3",
+    "children": [],
+    "phoneticSimple": "aut der",
+    "example": "There's a lot of talent out there.",
+    "usage": "Existing or happening in the wider world"
+  },
+  {
+    "id": 580,
+    "phrase": "over the years",
+    "translation": "con los años",
+    "audio": "A2-Frase-580.mp3",
+    "children": [],
+    "phoneticSimple": "óuver de iers",
+    "example": "Over the years, he learned a lot.",
+    "usage": "Describes development or change through time"
+  },
+  {
+    "id": 581,
+    "phrase": "over time",
+    "translation": "con el tiempo",
+    "audio": "A2-Frase-581.mp3",
+    "children": [],
+    "phoneticSimple": "óuver táim",
+    "example": "Your skills will develop over time.",
+    "usage": "Describing gradual change or development"
+  },
+  {
+    "id": 582,
+    "phrase": "participate in sth",
+    "translation": "participar en algo",
+    "audio": "A2-Frase-582.mp3",
+    "children": [],
+    "phoneticSimple": "par-tí-si-peit in sam-zing",
+    "example": "She decided to participate in the marathon.",
+    "usage": "To join or take part in activities"
+  },
+  {
+    "id": 583,
+    "phrase": "point of view",
+    "translation": "punto de vista",
+    "audio": "A2-Frase-583.mp3",
+    "children": [],
+    "phoneticSimple": "póint ov viú",
+    "example": "From my point of view, it's a good idea.",
+    "usage": "Expressing an opinion or perspective"
   }
 ]
