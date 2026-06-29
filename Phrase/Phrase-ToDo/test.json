@@ -1,0 +1,1160 @@
+[
+  {
+    "id": 435,
+    "phrase": "a bit more",
+    "translation": "un poco más",
+    "audio": "A2-Frase-435.mp3",
+    "children": [],
+    "phoneticSimple": "a bit mor",
+    "example": "I would like a bit more coffee.",
+    "usage": "Requesting slightly larger quantity or degree"
+  },
+  {
+    "id": 436,
+    "phrase": "a bit of sth",
+    "translation": "un poco de algo",
+    "audio": "A2-Frase-436.mp3",
+    "children": [],
+    "phoneticSimple": "e bit of samzin",
+    "example": "I need a bit of sugar for my coffee.",
+    "usage": "expressing a small quantity of something"
+  },
+  {
+    "id": 437,
+    "phrase": "access to sth",
+    "translation": "acceso a algo",
+    "audio": "A2-Frase-437.mp3",
+    "children": [],
+    "phoneticSimple": "akses tu samzing",
+    "example": "Do you have access to the building?",
+    "usage": "Ability to reach or obtain something"
+  },
+  {
+    "id": 438,
+    "phrase": "after all",
+    "translation": "después de todo",
+    "audio": "A2-Frase-438.mp3",
+    "children": [],
+    "phoneticSimple": "áfter ol",
+    "example": "She decided to go, after all.",
+    "usage": "Highlighting an obvious truth or conclusion"
+  },
+  {
+    "id": 439,
+    "phrase": "a great deal",
+    "translation": "mucho",
+    "audio": "A2-Frase-439.mp3",
+    "children": [
+      {
+        "phrase": "a great deal better",
+        "translation": "mucho mejor",
+        "phoneticSimple": "a greit dil beter"
+      },
+      {
+        "phrase": "a great deal of sth",
+        "translation": "una gran cantidad de algo",
+        "phoneticSimple": "a greit dil of samzing"
+      }
+    ],
+    "phoneticSimple": "a greit dil",
+    "example": "I like it a great deal.",
+    "usage": "Referencing a substantial amount or degree"
+  },
+  {
+    "id": 440,
+    "phrase": "aim to do sth",
+    "translation": "Tener como objetivo hacer algo",
+    "audio": "A2-Frase-440.mp3",
+    "children": [],
+    "phoneticSimple": "eim tu du sámtin",
+    "example": "We aim to improve customer satisfaction.",
+    "usage": "Setting goals, intending specific actions"
+  },
+  {
+    "id": 441,
+    "phrase": "a kind of…",
+    "translation": "un tipo de…",
+    "audio": "A2-Frase-441.mp3",
+    "children": [],
+    "phoneticSimple": "a kaind of",
+    "example": "It's a kind of fruit.",
+    "usage": "Describing categories or types of things"
+  },
+  {
+    "id": 442,
+    "phrase": "I had a kind of feeling this",
+    "translation": "Tenía la sensación de que esto",
+    "audio": "A2-Frase-442.mp3",
+    "children": [],
+    "phoneticSimple": "Ai jad a kaind of fíling dis",
+    "example": "I had a kind of feeling this wouldn't end well.",
+    "usage": "Expressing a premonition or intuition"
+  },
+  {
+    "id": 443,
+    "phrase": "might happen.",
+    "translation": "Podría pasar.",
+    "audio": "A2-Frase-443.mp3",
+    "children": [],
+    "phoneticSimple": "mait jápen",
+    "example": "It might happen, so be prepared.",
+    "usage": "Indicating a future uncertain event"
+  },
+  {
+    "id": 444,
+    "phrase": "a little bit",
+    "translation": "un poco",
+    "audio": "A2-Frase-444.mp3",
+    "children": [],
+    "phoneticSimple": "e litel bit",
+    "example": "I need a little bit more time.",
+    "usage": "expressing a small quantity or slight degree"
+  },
+  {
+    "id": 445,
+    "phrase": "a little more",
+    "translation": "un poco más",
+    "audio": "A2-Frase-445.mp3",
+    "children": [
+      {
+        "phrase": "a little",
+        "translation": "un poco",
+        "phoneticSimple": "e lítol"
+      },
+      {
+        "phrase": "more",
+        "translation": "más",
+        "phoneticSimple": "mor"
+      }
+    ],
+    "phoneticSimple": "e lítol mor",
+    "example": "Could I have a little more time?",
+    "usage": "Requesting a small additional quantity"
+  },
+  {
+    "id": 446,
+    "phrase": "along with sb/sth",
+    "translation": "junto con alguien/algo",
+    "audio": "A2-Frase-446.mp3",
+    "children": [],
+    "phoneticSimple": "alóng uiz sambodi / samzing",
+    "example": "He brought his guitar along with his amplifier.",
+    "usage": "Expressing inclusion or companionship"
+  },
+  {
+    "id": 447,
+    "phrase": "a lot more",
+    "translation": "mucho más",
+    "audio": "A2-Frase-447.mp3",
+    "children": [],
+    "phoneticSimple": "a lot mor",
+    "example": "I need a lot more time.",
+    "usage": "Emphasizing a larger quantity or degree"
+  },
+  {
+    "id": 448,
+    "phrase": "alternative to sth",
+    "translation": "alternativa a algo",
+    "audio": "A2-Frase-448.mp3",
+    "children": [],
+    "phoneticSimple": "alternativ tu samzing",
+    "example": "We need an alternative to this old method.",
+    "usage": "Choosing another option or method"
+  },
+  {
+    "id": 449,
+    "phrase": "and so on",
+    "translation": "y así sucesivamente",
+    "audio": "A2-Frase-449.mp3",
+    "children": [],
+    "phoneticSimple": "an sou on",
+    "example": "We need to buy milk, bread, eggs, and so on.",
+    "usage": "Listing additional items or similar things"
+  },
+  {
+    "id": 450,
+    "phrase": "apart from",
+    "translation": "aparte de",
+    "audio": "A2-Frase-450.mp3",
+    "children": [],
+    "phoneticSimple": "apárt fróm",
+    "example": "Apart from the weather, the trip was perfect.",
+    "usage": "Excluding or considering something else"
+  },
+  {
+    "id": 451,
+    "phrase": "a range of sth",
+    "translation": "una variedad de algo",
+    "audio": "A2-Frase-451.mp3",
+    "children": [],
+    "phoneticSimple": "e réinch ov sámzing",
+    "example": "The store offers a range of products.",
+    "usage": "Showing a selection or variety of things"
+  },
+  {
+    "id": 452,
+    "phrase": "a wide range of sth",
+    "translation": "una amplia gama de algo",
+    "audio": "A2-Frase-452.mp3",
+    "children": [
+      {
+        "phrase": "a wide range",
+        "translation": "una amplia gama",
+        "phoneticSimple": "a waid reinch"
+      },
+      {
+        "phrase": "of sth",
+        "translation": "de algo",
+        "phoneticSimple": "ov samzing"
+      }
+    ],
+    "phoneticSimple": "a waid reinch ov samzing",
+    "example": "The store offers a wide range of books.",
+    "usage": "Indicating great variety and many options."
+  },
+  {
+    "id": 453,
+    "phrase": "as if…",
+    "translation": "¡Como si…!",
+    "audio": "A2-Frase-453.mp3",
+    "children": [],
+    "phoneticSimple": "as if",
+    "example": "He talks as if he owns the place.",
+    "usage": "Expressing disbelief or a hypothetical situation"
+  },
+  {
+    "id": 454,
+    "phrase": "as if nothing had happened",
+    "translation": "como si nada hubiera pasado",
+    "audio": "A2-Frase-454.mp3",
+    "children": [],
+    "phoneticSimple": "az if nazing jad japend",
+    "example": "He acted as if nothing had happened.",
+    "usage": "Pretending an event didn't occur"
+  },
+  {
+    "id": 455,
+    "phrase": "as much as",
+    "translation": "tanto como",
+    "audio": "A2-Frase-455.mp3",
+    "children": [],
+    "phoneticSimple": "as mach as",
+    "example": "I like apples as much as oranges.",
+    "usage": "Comparing quantities or degrees equally"
+  },
+  {
+    "id": 456,
+    "phrase": "as soon as possible",
+    "translation": "lo antes posible",
+    "audio": "A2-Frase-456.mp3",
+    "children": [],
+    "phoneticSimple": "as sun as posibol",
+    "example": "Please send the report as soon as possible.",
+    "usage": "To express urgency or immediacy"
+  },
+  {
+    "id": 457,
+    "phrase": "at last",
+    "translation": "por fin",
+    "audio": "A2-Frase-457.mp3",
+    "children": [],
+    "phoneticSimple": "at last",
+    "example": "At last, the rain stopped.",
+    "usage": "Expressing relief after a long wait"
+  },
+  {
+    "id": 458,
+    "phrase": "at risk",
+    "translation": "en riesgo",
+    "audio": "A2-Frase-458.mp3",
+    "children": [],
+    "phoneticSimple": "at ris k",
+    "example": "The company is at risk of bankruptcy.",
+    "usage": "Indicating a state of potential danger."
+  },
+  {
+    "id": 459,
+    "phrase": "at times",
+    "translation": "a veces",
+    "audio": "A2-Frase-459.mp3",
+    "children": [],
+    "phoneticSimple": "at taims",
+    "example": "He feels sad at times.",
+    "usage": "Indicating something occurs on occasion"
+  },
+  {
+    "id": 460,
+    "phrase": "attached to sb/sth",
+    "translation": "apegado a alguien/algo",
+    "audio": "A2-Frase-460.mp3",
+    "children": [],
+    "phoneticSimple": "atáchd tu es-bi / es-ti-eich",
+    "example": "She is very attached to her grandmother.",
+    "usage": "Describing a strong emotional or physical bond."
+  },
+  {
+    "id": 461,
+    "phrase": "a variety of sth",
+    "translation": "una variedad de algo",
+    "audio": "A2-Frase-461.mp3",
+    "children": [],
+    "phoneticSimple": "e varáiti ov sámtin",
+    "example": "The store offers a variety of products.",
+    "usage": "Describing multiple different kinds of items"
+  },
+  {
+    "id": 462,
+    "phrase": "be about to do sth",
+    "translation": "estar a punto de hacer algo",
+    "audio": "A2-Frase-462.mp3",
+    "children": [],
+    "phoneticSimple": "bi abáut tu du sámzin",
+    "example": "The train is about to depart.",
+    "usage": "Imminent action or event"
+  },
+  {
+    "id": 463,
+    "phrase": "be going on",
+    "translation": "estar pasando",
+    "audio": "A2-Frase-463.mp3",
+    "children": [
+      {
+        "phrase": "What’s going on?",
+        "translation": "¿Qué está pasando?",
+        "phoneticSimple": "uat's gouing on"
+      }
+    ],
+    "phoneticSimple": "bi gouing on",
+    "example": "There are too many people, what's going on?",
+    "usage": "Describe an event or situation unfolding"
+  },
+  {
+    "id": 464,
+    "phrase": "be known as sb/sth",
+    "translation": "ser conocido como alguien/algo",
+    "audio": "A2-Frase-464.mp3",
+    "children": [
+      {
+        "phrase": "be known as",
+        "translation": "ser conocido como",
+        "phoneticSimple": "bi noun as"
+      }
+    ],
+    "phoneticSimple": "bi noun as sámbodi/sámzing",
+    "example": "She is known as a talented artist.",
+    "usage": "Describing public identity or reputation"
+  },
+  {
+    "id": 465,
+    "phrase": "benefit from sth",
+    "translation": "beneficiarse de algo",
+    "audio": "A2-Frase-465.mp3",
+    "children": [],
+    "phoneticSimple": "bénefit from sámzing",
+    "example": "You will benefit from studying more.",
+    "usage": "Obtain advantage from a particular thing"
+  },
+  {
+    "id": 466,
+    "phrase": "be supposed to do sth",
+    "translation": "se supone que debes hacer algo",
+    "audio": "A2-Frase-466.mp3",
+    "children": [],
+    "phoneticSimple": "bi supóusd tu du sumzing",
+    "example": "You are supposed to finish this report by Friday.",
+    "usage": "Indicating duty, requirement, or common belief."
+  },
+  {
+    "id": 467,
+    "phrase": "be supposed to be sth",
+    "translation": "Se supone que es algo",
+    "audio": "A2-Frase-467.mp3",
+    "children": [],
+    "phoneticSimple": "bi supóust tu bi sámzing",
+    "example": "This new software is supposed to be very user-friendly.",
+    "usage": "Expressing expectation, general belief, or intended purpose"
+  },
+  {
+    "id": 468,
+    "phrase": "break up",
+    "translation": "romper",
+    "audio": "A2-Frase-468.mp3",
+    "children": [
+      {
+        "phrase": "break up with sb",
+        "translation": "romper con alguien",
+        "phoneticSimple": "breik ap uiz sámbarí"
+      }
+    ],
+    "phoneticSimple": "breik ap",
+    "example": "They decided to break up.",
+    "usage": "Ending a romantic relationship"
+  },
+  {
+    "id": 469,
+    "phrase": "by the time (that)…",
+    "translation": "para cuando…",
+    "audio": "A2-Frase-469.mp3",
+    "children": [],
+    "phoneticSimple": "bai de taim",
+    "example": "By the time he arrived, the party was over.",
+    "usage": "Referring to a specific point in time"
+  },
+  {
+    "id": 470,
+    "phrase": "can’t afford sth",
+    "translation": "no poder permitirse algo",
+    "audio": "A2-Frase-470.mp3",
+    "children": [],
+    "phoneticSimple": "cant afórd samzíng",
+    "example": "I can't afford a new car.",
+    "usage": "Expressing inability to buy or pay"
+  },
+  {
+    "id": 471,
+    "phrase": "can’t afford to do sth",
+    "translation": "no poder permitirse hacer algo",
+    "audio": "A2-Frase-471.mp3",
+    "children": [],
+    "phoneticSimple": "kant afórd tu du sámzing",
+    "example": "I can't afford to buy a new car right now.",
+    "usage": "Expressing financial inability to act"
+  },
+  {
+    "id": 472,
+    "phrase": "care for sb",
+    "translation": "cuidar a alguien",
+    "audio": "A2-Frase-472.mp3",
+    "children": [],
+    "phoneticSimple": "quer for esbí",
+    "example": "I care for my elderly grandmother.",
+    "usage": "To look after someone, feel affection"
+  },
+  {
+    "id": 473,
+    "phrase": "caused by sth",
+    "translation": "causado por algo",
+    "audio": "A2-Frase-473.mp3",
+    "children": [
+      {
+        "phrase": "caused by stress",
+        "translation": "causado por el estrés",
+        "phoneticSimple": "cozd bai stres"
+      },
+      {
+        "phrase": "caused by a virus",
+        "translation": "causado por un virus",
+        "phoneticSimple": "cozd bai a vairus"
+      }
+    ],
+    "phoneticSimple": "cozd bai samzing",
+    "example": "The fire was caused by an electrical fault.",
+    "usage": "Explaining the origin or reason for something"
+  },
+  {
+    "id": 474,
+    "phrase": "check sb/sth out",
+    "translation": "echar un vistazo a alguien/algo",
+    "audio": "A2-Frase-474.mp3",
+    "children": [],
+    "phoneticSimple": "chek aut",
+    "example": "Let's check out that new cafe.",
+    "usage": "Inspect or investigate someone/something new"
+  },
+  {
+    "id": 475,
+    "phrase": "choose to do sth",
+    "translation": "elegir hacer algo",
+    "audio": "A2-Frase-475.mp3",
+    "children": [],
+    "phoneticSimple": "chuus tu du samzing",
+    "example": "I choose to go to the park.",
+    "usage": "Deciding on an action or course"
+  },
+  {
+    "id": 476,
+    "phrase": "clean up",
+    "translation": "limpiar",
+    "audio": "A2-Frase-476.mp3",
+    "children": [],
+    "phoneticSimple": "clín ap",
+    "example": "Let's clean up the kitchen after dinner.",
+    "usage": "making an area tidy and spotless"
+  },
+  {
+    "id": 477,
+    "phrase": "clean sth up",
+    "translation": "Limpiar/ordenar algo",
+    "audio": "A2-Frase-477.mp3",
+    "children": [
+      {
+        "phrase": "clean up",
+        "translation": "Limpiar, ordenar",
+        "phoneticSimple": "Klin áp"
+      }
+    ],
+    "phoneticSimple": "Klin sámzing áp",
+    "example": "You should clean your room up.",
+    "usage": "Tidying a space or making it clean"
+  },
+  {
+    "id": 478,
+    "phrase": "click on sth",
+    "translation": "hacer clic en algo",
+    "audio": "A2-Frase-478.mp3",
+    "children": [],
+    "phoneticSimple": "clic on sámzing",
+    "example": "Click on the link to open it.",
+    "usage": "Interacting with a digital interface item"
+  },
+  {
+    "id": 479,
+    "phrase": "come up with sth",
+    "translation": "idear algo",
+    "audio": "A2-Frase-479.mp3",
+    "children": [],
+    "phoneticSimple": "com ap wíth sámzing",
+    "example": "We need to come up with a new plan.",
+    "usage": "create an idea, plan, or solution"
+  },
+  {
+    "id": 480,
+    "phrase": "compared with sth",
+    "translation": "comparado con algo",
+    "audio": "A2-Frase-480.mp3",
+    "children": [],
+    "phoneticSimple": "compérd uíth sámzing",
+    "example": "The new model is faster compared with the old one.",
+    "usage": "Highlighting differences between items or concepts"
+  },
+  {
+    "id": 481,
+    "phrase": "concentrate on sth",
+    "translation": "concentrarse en algo",
+    "audio": "A2-Frase-481.mp3",
+    "children": [],
+    "phoneticSimple": "cónsentreit on sámzing",
+    "example": "Please concentrate on your work.",
+    "usage": "Focusing attention on a specific task"
+  },
+  {
+    "id": 482,
+    "phrase": "consist of sb/sth",
+    "translation": "consistir en alguien/algo",
+    "audio": "A2-Frase-482.mp3",
+    "children": [],
+    "phoneticSimple": "consíst ov esbí/esíech",
+    "example": "The team consists of five players.",
+    "usage": "Describe the components forming something."
+  },
+  {
+    "id": 483,
+    "phrase": "decide on sth",
+    "translation": "Decidir sobre algo",
+    "audio": "A2-Frase-483.mp3",
+    "children": [],
+    "phoneticSimple": "disáid on sámtzin",
+    "example": "Let's decide on a restaurant for dinner.",
+    "usage": "Choose a specific option or item"
+  },
+  {
+    "id": 484,
+    "phrase": "depending on",
+    "translation": "dependiendo de",
+    "audio": "A2-Frase-484.mp3",
+    "children": [],
+    "phoneticSimple": "dipéndin on",
+    "example": "The price varies depending on the quantity.",
+    "usage": "Expressing condition or circumstance reliance"
+  },
+  {
+    "id": 485,
+    "phrase": "developing countries",
+    "translation": "países en desarrollo",
+    "audio": "A2-Frase-485.mp3",
+    "children": [],
+    "phoneticSimple": "develóping cáuntris",
+    "example": "Many developing countries are working to improve their infrastructure.",
+    "usage": "Nations progressing economically and socially"
+  },
+  {
+    "id": 486,
+    "phrase": "due to sb/sth",
+    "translation": "debido a alguien/algo",
+    "audio": "A2-Frase-486.mp3",
+    "children": [],
+    "phoneticSimple": "diú tu sámban / sámzing",
+    "example": "The flight was delayed due to bad weather.",
+    "usage": "Explaining the reason for an event"
+  },
+  {
+    "id": 487,
+    "phrase": "economic growth",
+    "translation": "crecimiento económico",
+    "audio": "A2-Frase-487.mp3",
+    "children": [],
+    "phoneticSimple": "ikonomik groud",
+    "example": "The country experienced rapid economic growth last year.",
+    "usage": "Refers to increase in economic prosperity"
+  },
+  {
+    "id": 488,
+    "phrase": "end up",
+    "translation": "acabar",
+    "audio": "A2-Frase-488.mp3",
+    "children": [
+      {
+        "phrase": "end",
+        "translation": "fin",
+        "phoneticSimple": "end"
+      },
+      {
+        "phrase": "up",
+        "translation": "arriba",
+        "phoneticSimple": "ap"
+      }
+    ],
+    "phoneticSimple": "end ap",
+    "example": "We ended up eating pizza.",
+    "usage": "Describe final state or location."
+  },
+  {
+    "id": 489,
+    "phrase": "even if",
+    "translation": "Aunque",
+    "audio": "A2-Frase-489.mp3",
+    "children": [],
+    "phoneticSimple": "íven if",
+    "example": "Even if it rains, we will still go.",
+    "usage": "Despite a hypothetical situation or condition"
+  },
+  {
+    "id": 490,
+    "phrase": "even though",
+    "translation": "aunque",
+    "audio": "A2-Frase-490.mp3",
+    "children": [],
+    "phoneticSimple": "íven dou",
+    "example": "Even though it rained, we still went for a walk.",
+    "usage": "Introduce contrasting information or unexpected fact"
+  },
+  {
+    "id": 491,
+    "phrase": "exactly the same",
+    "translation": "exactamente igual",
+    "audio": "A2-Frase-491.mp3",
+    "children": [],
+    "phoneticSimple": "eksáctli de seim",
+    "example": "Your new car is exactly the same color as mine.",
+    "usage": "Describing identical items, appearances, or results"
+  },
+  {
+    "id": 492,
+    "phrase": "experience in sth",
+    "translation": "experiencia en algo",
+    "audio": "A2-Frase-492.mp3",
+    "children": [],
+    "phoneticSimple": "eks-pe-ri-ens in sam-zing",
+    "example": "She has a lot of experience in marketing.",
+    "usage": "Describing skill or knowledge in an area"
+  },
+  {
+    "id": 493,
+    "phrase": "fail to do sth",
+    "translation": "no lograr hacer algo",
+    "audio": "A2-Frase-493.mp3",
+    "children": [],
+    "phoneticSimple": "feil tu du sámzing",
+    "example": "He will fail to do his homework.",
+    "usage": "Not achieving a desired outcome or goal"
+  },
+  {
+    "id": 494,
+    "phrase": "fall asleep",
+    "translation": "dormirse",
+    "audio": "A2-Frase-494.mp3",
+    "children": [],
+    "phoneticSimple": "fol aslip",
+    "example": "I always fall asleep quickly after a long day.",
+    "usage": "Start sleeping, often unintentionally"
+  },
+  {
+    "id": 495,
+    "phrase": "far more",
+    "translation": "mucho más",
+    "audio": "A2-Frase-495.mp3",
+    "children": [
+      {
+        "phrase": "far more important",
+        "translation": "mucho más importante",
+        "phoneticSimple": "far mor importan"
+      },
+      {
+        "phrase": "far more opportunities",
+        "translation": "muchas más oportunidades",
+        "phoneticSimple": "far mor oportunítis"
+      }
+    ],
+    "phoneticSimple": "far mor",
+    "example": "This new method is far more efficient.",
+    "usage": "Emphasizing a significant increase or difference"
+  },
+  {
+    "id": 496,
+    "phrase": "far too",
+    "translation": "demasiado",
+    "audio": "A2-Frase-496.mp3",
+    "children": [
+      {
+        "phrase": "far too much homework",
+        "translation": "demasiada tarea",
+        "phoneticSimple": "far tu mach jomuerk"
+      }
+    ],
+    "phoneticSimple": "far tu",
+    "example": "It's far too expensive.",
+    "usage": "Emphasizes excessive amount or degree"
+  },
+  {
+    "id": 497,
+    "phrase": "fed up",
+    "translation": "harto/a",
+    "audio": "A2-Frase-497.mp3",
+    "children": [],
+    "phoneticSimple": "fed ap",
+    "example": "I am fed up with all this noise.",
+    "usage": "Expressing annoyance and frustration with situation"
+  },
+  {
+    "id": 498,
+    "phrase": "for a while",
+    "translation": "por un rato",
+    "audio": "A2-Frase-498.mp3",
+    "children": [],
+    "phoneticSimple": "for a uáil",
+    "example": "I will stay here for a while.",
+    "usage": "Temporary, short period of time"
+  },
+  {
+    "id": 499,
+    "phrase": "for free",
+    "translation": "gratis",
+    "audio": "A2-Frase-499.mp3",
+    "children": [],
+    "phoneticSimple": "for fri",
+    "example": "You can download the software for free.",
+    "usage": "Obtaining something without payment or cost"
+  },
+  {
+    "id": 500,
+    "phrase": "for instance",
+    "translation": "por ejemplo",
+    "audio": "A2-Frase-500.mp3",
+    "children": [],
+    "phoneticSimple": "for ístans",
+    "example": "There are many types of fruit; for instance, apples, bananas, and oranges.",
+    "usage": "Introducing specific examples or illustrations"
+  },
+  {
+    "id": 501,
+    "phrase": "for life",
+    "translation": "de por vida",
+    "audio": "A2-Frase-501.mp3",
+    "children": [],
+    "phoneticSimple": "for láif",
+    "example": "He was banned from the stadium for life.",
+    "usage": "Forever, for an entire lifetime"
+  },
+  {
+    "id": 502,
+    "phrase": "a job for life",
+    "translation": "un trabajo para toda la vida",
+    "audio": "A2-Frase-502.mp3",
+    "children": [],
+    "phoneticSimple": "a yob for laif",
+    "example": "Finding a job for life is rare now.",
+    "usage": "Describing stable, permanent career employment."
+  },
+  {
+    "id": 503,
+    "phrase": "for long",
+    "translation": "por mucho tiempo",
+    "audio": "A2-Frase-503.mp3",
+    "children": [],
+    "phoneticSimple": "for long",
+    "example": "Are you staying for long?",
+    "usage": "Describing an extended duration of time"
+  },
+  {
+    "id": 504,
+    "phrase": "for some time",
+    "translation": "por algún tiempo",
+    "audio": "A2-Frase-504.mp3",
+    "children": [],
+    "phoneticSimple": "for som taim",
+    "example": "I lived in that city for some time.",
+    "usage": "Referring to an unspecified period of time"
+  },
+  {
+    "id": 505,
+    "phrase": "get on with sb",
+    "translation": "Llevarse bien con alguien",
+    "audio": "A2-Frase-505.mp3",
+    "children": [],
+    "phoneticSimple": "guet on güiz sambadi",
+    "example": "I get on with my new boss very well.",
+    "usage": "Describe having a friendly relationship with someone"
+  },
+  {
+    "id": 506,
+    "phrase": "get to know sb",
+    "translation": "conocer a alguien",
+    "audio": "A2-Frase-506.mp3",
+    "children": [],
+    "phoneticSimple": "guet tu nou",
+    "example": "It takes time to get to know someone new.",
+    "usage": "Becoming familiar with a person's character"
+  },
+  {
+    "id": 507,
+    "phrase": "get used to sth",
+    "translation": "acostumbrarse a algo",
+    "audio": "A2-Frase-507.mp3",
+    "children": [],
+    "phoneticSimple": "guet iust tu sámzing",
+    "example": "It takes time to get used to a new city.",
+    "usage": "Adapting to new situations or habits"
+  },
+  {
+    "id": 508,
+    "phrase": "get used to doing sth",
+    "translation": "acostumbrarse a hacer algo",
+    "audio": "A2-Frase-508.mp3",
+    "children": [],
+    "phoneticSimple": "guet iúst tu dúin sámzing",
+    "example": "I will get used to working from home.",
+    "usage": "Gradually adapting to a new experience."
+  },
+  {
+    "id": 509,
+    "phrase": "global warming",
+    "translation": "calentamiento global",
+    "audio": "A2-Frase-509.mp3",
+    "children": [],
+    "phoneticSimple": "glóbal uórmin",
+    "example": "Combatting global warming is crucial.",
+    "usage": "Earth's rising temperatures, climate change"
+  },
+  {
+    "id": 510,
+    "phrase": "go ahead",
+    "translation": "adelante",
+    "audio": "A2-Frase-510.mp3",
+    "children": [
+      {
+        "phrase": "go ahead with sth",
+        "translation": "proceder con algo",
+        "phoneticSimple": "gou ahed uith samzing"
+      }
+    ],
+    "phoneticSimple": "gou ahed",
+    "example": "If you are ready, go ahead.",
+    "usage": "Giving permission, encouraging someone to proceed"
+  },
+  {
+    "id": 511,
+    "phrase": "go wrong",
+    "translation": "salir mal",
+    "audio": "A2-Frase-511.mp3",
+    "children": [],
+    "phoneticSimple": "gou rong",
+    "example": "What if something goes wrong?",
+    "usage": "Expressing failure or unexpected problems"
+  },
+  {
+    "id": 512,
+    "phrase": "growth in sth",
+    "translation": "Crecimiento en algo",
+    "audio": "A2-Frase-512.mp3",
+    "children": [],
+    "phoneticSimple": "grouz in samzing",
+    "example": "The company saw significant growth in profits.",
+    "usage": "Describing increase or expansion within a specific area"
+  },
+  {
+    "id": 513,
+    "phrase": "have no idea",
+    "translation": "no tener ni idea",
+    "audio": "A2-Frase-513.mp3",
+    "children": [],
+    "phoneticSimple": "jav nou aidía",
+    "example": "I have no idea where he went.",
+    "usage": "Expressing absolute uncertainty or ignorance."
+  },
+  {
+    "id": 514,
+    "phrase": "have sth in common",
+    "translation": "tener algo en común",
+    "audio": "A2-Frase-514.mp3",
+    "children": [
+      {
+        "phrase": "have sth in common with sb",
+        "translation": "tener algo en común con alguien",
+        "phoneticSimple": "jav samzing in cómon wíth sámbari"
+      },
+      {
+        "phrase": "have sth in common with sth",
+        "translation": "tener algo en común con algo",
+        "phoneticSimple": "jav samzing in cómon wíth sámsing"
+      }
+    ],
+    "phoneticSimple": "jav samzing in cómon",
+    "example": "They have a lot in common.",
+    "usage": "Express shared interests or characteristics"
+  },
+  {
+    "id": 515,
+    "phrase": "hear of sb/sth",
+    "translation": "oír hablar de alguien/algo",
+    "audio": "A2-Frase-515.mp3",
+    "children": [],
+    "phoneticSimple": "jir ov",
+    "example": "I've never heard of that band before.",
+    "usage": "Knowing about someone or something new"
+  },
+  {
+    "id": 516,
+    "phrase": "heart disease",
+    "translation": "enfermedad cardíaca",
+    "audio": "A2-Frase-516.mp3",
+    "children": [],
+    "phoneticSimple": "jart disis",
+    "example": "Regular exercise can prevent heart disease.",
+    "usage": "medical condition affecting the heart"
+  },
+  {
+    "id": 517,
+    "phrase": "high street",
+    "translation": "calle principal",
+    "audio": "A2-Frase-517.mp3",
+    "children": [],
+    "phoneticSimple": "jai strit",
+    "example": "The main shops are on the high street.",
+    "usage": "Main commercial street in a town"
+  },
+  {
+    "id": 518,
+    "phrase": "higher education",
+    "translation": "educación superior",
+    "audio": "A2-Frase-518.mp3",
+    "children": [],
+    "phoneticSimple": "jayer edukeishon",
+    "example": "Many students choose to pursue higher education abroad.",
+    "usage": "Advanced learning beyond secondary school"
+  },
+  {
+    "id": 519,
+    "phrase": "if I were you",
+    "translation": "si yo fuera tú",
+    "audio": "A2-Frase-519.mp3",
+    "children": [],
+    "phoneticSimple": "if ai güer iu",
+    "example": "If I were you, I would study harder.",
+    "usage": "Giving advice or a suggestion"
+  },
+  {
+    "id": 520,
+    "phrase": "in addition",
+    "translation": "además",
+    "audio": "A2-Frase-520.mp3",
+    "children": [
+      {
+        "phrase": "in addition to sb/sth",
+        "translation": "además de alguien/algo",
+        "phoneticSimple": "in adíshon tu sámbari/sámzing"
+      }
+    ],
+    "phoneticSimple": "in adíshon",
+    "example": "The house has a large garden; in addition, there's a swimming pool.",
+    "usage": "Adding extra information or further points"
+  },
+  {
+    "id": 521,
+    "phrase": "in a way that...",
+    "translation": "de una manera que...",
+    "audio": "A2-Frase-521.mp3",
+    "children": [],
+    "phoneticSimple": "in a uéi dat",
+    "example": "She spoke in a way that made everyone listen.",
+    "usage": "Describing how something is done"
+  },
+  {
+    "id": 522,
+    "phrase": "in case…",
+    "translation": "en caso de que...",
+    "audio": "A2-Frase-522.mp3",
+    "children": [],
+    "phoneticSimple": "in keis",
+    "example": "Take an umbrella in case it rains.",
+    "usage": "Contingency or precaution against a possibility"
+  },
+  {
+    "id": 523,
+    "phrase": "just in case…",
+    "translation": "por si acaso…",
+    "audio": "A2-Frase-523.mp3",
+    "children": [
+      {
+        "phrase": "just in case you need it",
+        "translation": "por si lo necesitas",
+        "phoneticSimple": "yost in keis iu nid it"
+      }
+    ],
+    "phoneticSimple": "yost in keis",
+    "example": "I'll take an umbrella, just in case it rains.",
+    "usage": "Preparing for potential future situations"
+  },
+  {
+    "id": 524,
+    "phrase": "in charge of sb/sth",
+    "translation": "a cargo de alguien/algo",
+    "audio": "A2-Frase-524.mp3",
+    "children": [
+      {
+        "phrase": "who's in charge?",
+        "translation": "¿quién está a cargo?",
+        "phoneticSimple": "jus in chárj"
+      }
+    ],
+    "phoneticSimple": "in chárj ov",
+    "example": "I'm in charge of making sure everything runs smoothly.",
+    "usage": "Indicates responsibility for something or someone."
+  },
+  {
+    "id": 525,
+    "phrase": "in contrast",
+    "translation": "en contraste",
+    "audio": "A2-Frase-525.mp3",
+    "children": [
+      {
+        "phrase": "in contrast to sb/sth",
+        "translation": "en contraste con alguien/algo",
+        "phoneticSimple": "in contrást tu esbí/estí"
+      }
+    ],
+    "phoneticSimple": "in contrást",
+    "example": "His quiet demeanor was in contrast to his vibrant paintings.",
+    "usage": "Introducing an opposing idea or difference"
+  },
+  {
+    "id": 526,
+    "phrase": "in favour of sb/sth",
+    "translation": "a favor de alguien/algo",
+    "audio": "A2-Frase-526.mp3",
+    "children": [],
+    "phoneticSimple": "in feivor ov",
+    "example": "I am in favour of the new proposal.",
+    "usage": "Indicating agreement or preference"
+  },
+  {
+    "id": 527,
+    "phrase": "in general",
+    "translation": "en general",
+    "audio": "A2-Frase-527.mp3",
+    "children": [],
+    "phoneticSimple": "in yéneral",
+    "example": "In general, I prefer to work from home.",
+    "usage": "Describing typical situations, overall view"
+  },
+  {
+    "id": 528,
+    "phrase": "in order of sth",
+    "translation": "en el orden de algo",
+    "audio": "A2-Frase-528.mp3",
+    "children": [],
+    "phoneticSimple": "in órder ov sómzing",
+    "example": "We sorted the documents in order of importance.",
+    "usage": "Arrangement by a specific sequence"
+  },
+  {
+    "id": 529,
+    "phrase": "in order to do sth",
+    "translation": "para hacer algo",
+    "audio": "A2-Frase-529.mp3",
+    "children": [],
+    "phoneticSimple": "in órer tu du",
+    "example": "I study hard in order to pass the exam.",
+    "usage": "Expressing purpose or reason for an action"
+  },
+  {
+    "id": 530,
+    "phrase": "in other words",
+    "translation": "en otras palabras",
+    "audio": "A2-Frase-530.mp3",
+    "children": [],
+    "phoneticSimple": "in óder uérds",
+    "example": "He is very busy, in other words, he doesn't have time.",
+    "usage": "Rephrasing for clarity or simplification"
+  },
+  {
+    "id": 531,
+    "phrase": "in particular",
+    "translation": "en particular",
+    "audio": "A2-Frase-531.mp3",
+    "children": [],
+    "phoneticSimple": "ín partícular",
+    "example": "I like many fruits, in particular, apples.",
+    "usage": "Emphasizing a specific point or item"
+  },
+  {
+    "id": 532,
+    "phrase": "in public",
+    "translation": "en público",
+    "audio": "A2-Frase-532.mp3",
+    "children": [],
+    "phoneticSimple": "in páblick",
+    "example": "They started arguing in public.",
+    "usage": "Referring to actions done openly"
+  },
+  {
+    "id": 533,
+    "phrase": "in recent years",
+    "translation": "en los últimos años",
+    "audio": "A2-Frase-533.mp3",
+    "children": [],
+    "phoneticSimple": "in rísent yíars",
+    "example": "In recent years, renewable energy has become very popular.",
+    "usage": "Referring to events over the last few years"
+  },
+  {
+    "id": 534,
+    "phrase": "in response to sth",
+    "translation": "en respuesta a algo",
+    "audio": "A2-Frase-534.mp3",
+    "children": [
+      {
+        "phrase": "in response",
+        "translation": "en respuesta",
+        "phoneticSimple": "in rispons"
+      },
+      {
+        "phrase": "response to",
+        "translation": "respuesta a",
+        "phoneticSimple": "rispons tu"
+      }
+    ],
+    "phoneticSimple": "in rispons tu samzing",
+    "example": "He replied in response to her email.",
+    "usage": "Describing an action taken due to something."
+  },
+  {
+    "id": 535,
+    "phrase": "in terms of sth",
+    "translation": "en términos de algo",
+    "audio": "A2-Frase-535.mp3",
+    "children": [],
+    "phoneticSimple": "in térms ov sámzing",
+    "example": "In terms of cost, the new plan is more efficient.",
+    "usage": "Referring to a specific aspect or subject"
+  }
+]
